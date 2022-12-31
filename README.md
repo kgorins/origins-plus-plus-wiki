@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Alien axolotl](#alien-axolotl)
+- [Alien axolotl](#alien-axolotl-◉◉◉)
 - [Anomaly](#anomaly)
 - [Artificial construct](#artificial-construct)
 - [Automaton](#automaton)
