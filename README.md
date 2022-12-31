@@ -120,7 +120,7 @@
 - [Zero aizawa](#zero-aizawa)
 
 
-## Alien axolotl
+## Alien axolotl ◉◉◉
 You are an alien that prays to the Golden Space Gods and has crash-landed onto this planet.
 
 * **Adapted Oceaner**: You can naturally breathe underwater
