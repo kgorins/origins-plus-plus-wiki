@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Alien axolotl](#alien-axolotl-◉◉◉)
+- [Alien axolotl](#alien-axolotl)
 - [Anomaly](#anomaly)
 - [Artificial construct](#artificial-construct)
 - [Automaton](#automaton)
@@ -120,8 +120,10 @@
 - [Zero aizawa](#zero-aizawa)
 
 
-## Alien axolotl ◉◉◉
-You are an alien that prays to the Golden Space Gods and has crash-landed onto this planet.
+## Alien axolotl
+Impact: ◉◉◉
+
+_You are an alien that prays to the Golden Space Gods and has crash-landed onto this planet._
 
 * **Adapted Oceaner**: You can naturally breathe underwater
 * **A Reminder**: Touching a Kelp Plant gives you Regeneration, Blindness and Slowness II.
