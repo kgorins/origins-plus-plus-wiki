@@ -184,15 +184,61 @@ Impact: ◉◉
 
 _Beavers are large, semi-aquatic rodents in the genus 'castor' native to the temperate northern hemisphere._
 
+* **Aquatic**: You have Dolphin's Grace when underwater.
+* **Lazy**: You gain Mining Fatigue when you have more than a stack of any log inyour inventory.
+* **Logger**: You gain haste when near logs and stripped logs.
+* **Beaver Rage**: You get Speed and Regeneration for a short time.
+* **Razor Teeth**: You deal extra damage due to your sharp teeth
+* **Mouth Storage**: You can store precious items in your mouth that do not drop ondeath.
+
 ## Bedrockean
 Impact: ◉◉◉
 
 _You are bedrock._
 
+* **Dense II**: You are so dense and heavy that when you fall greater than four blocks, you break the blockyou fall on (except for some strong blocks).
+* **Bedrock Break**: Since you are stronger than most you can break bedrock with a netherite pickaxe.
+* **Bedrock Skin**: You are nearly unbreakable because of your bedrock ancestors so you are immune to drowning,and starvation. You also are a darker tint due to being bedrock.
+* **Short Arms**: Due to your short arms you can't pull back a bow or crossbow.
+* **Bulky**: You are bulky so you sink underwater and gain slowness.
+* **Dense**: Due to your density you have extra health, and you are slower.
+* **Food**: You never have eaten so you never have a full food bar
+* **Miner**: You were built to mine so you mine faster.
+* **Bedrockean Heal**: You heal differently than most, so you have a constant heal, but half a heart each second and a half
+heavy_body.name":"Heavy Body**: "Due to your great weight you can barely jump a block high.
+* **Invincible**: Like your ancestors, you can be immune to all damage - however, when you do this it costs yourspeed, strength, and it takes much longer to heal.
+* **Earth Familiarity**: Your familiarity with the earth allows to to find treasures others cannot.
+* **Lava Vision**: Since you are most of the time covered in lava you have adjusted to see in it.
+* **No Elytra**: Due to your great density you could not ever fly.
+* **Potion Immune**: Your skin is too hard for potions to get through and effect you
+* **Powerful Arms**: "Due to your great strength you can launch mobs into the air when you hit them.
+* **Short**: You are a block tall because you used to be a block.
+* **Rested**: You got plenty of rest while you sat at the bottom of the world, why would you need any more?
+* **Deep Down**: You spawn in the nether where there is double the amount of bedrock.
+* **Strong**: Due to you being made out of bedrock, you deal extra damage when using your fist.
+* **Bright Sun**: The sun is too bright for your cave adapted eyes.
+
 ## Binturong
 Impact: ◉◉
 
 _A binturong is a bear cat of the trees._
+
+* **"Weak to Explosions**: Binturongs are weak to explosion damage
+* **Camouflage**: [Save Toolbar Activator] You can camouflage into yoursurroundings to become invisible, but use hunger doing so
+* **Sharp Claws**: Binturongs deal extra damage with their sharp claws
+* **Paws Down**: When crouching, binturongs are smaller
+* **Flammable Fur**: Binturongs hide is very flammable, so it causes themextra damage
+* **Jockey**: You can ride on other players.
+* **Above the Grass**: Binturongs can jump higher than average
+* **Binturong's Leap**: Binturongs can leap from tree to tree with a powerful jump
+* **Stamina Conservation**: Binturongs need to save energy for leaping so they can'thold their breath for long
+* **Manic Miner**: Binturong's claws allow them break blocks faster thanothers.
+* **Nocturnal**: Binturongs are adapted to the night, so they have permanentnight vision
+* **On All Fours**: Being a quadruped, binturongs are smaller than average
+* **Need for Speed**: Binturongs have a need for speed
+* **Snorting Red**: Binturongs can snort red dye for some reason
+* **Thick Hide**: A binturong's thick hide means that they are immune to alltypes of thorns and spikes
+* **Agile Frame**: Binturongs are too weak to wear netherite armour
 
 ## Bird
 Impact: ◉◉◉
