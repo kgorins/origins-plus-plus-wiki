@@ -172,7 +172,7 @@ Impact: ◉◉◉
 _These machines were built by a race long lost to time. Some were kept in a capsule that eroded quite recently. They now wander this earth without the fear of death._
 
 * **Dense**: You're much denser than water making you sink.
-* **Steam Machine**: You have both a fire bar and water bar. Make sure to watch these carefully! Refill you fire bar by holding coal/coal block/lava bucket and [Sneak + Right-Click]. Refill your water bar by drinking water bottlesor by holding a water bucket and [Sneak + Right-Click].
+* **Steam Machine**: You have both a fire bar and water bar. Make sure to watch these carefully! Refill you fire bar by holding coal/coal block/lava bucket and [Sneak + Right-Click]. Refill your water bar by drinking water bottles or by holding a water bucket and [Sneak + Right-Click].
 * **Power Saving Mode**: When you run out on any bar you'll enter power saving mode.
 * **Elemental Attacks**: You can switch between fire and water attacks
 * **Deathless**: You do not die, but you will power down when too low on steam. (You will die after 5 minutes of being powered down)
@@ -224,7 +224,7 @@ Impact: ◉◉
 _A binturong is a bear cat of the trees._
 
 * **"Weak to Explosions**: Binturongs are weak to explosion damage
-* **Camouflage**: [Save Toolbar Activator] You can camouflage into yoursurroundings to become invisible, but use hunger doing so
+* **Camouflage**: [Save Toolbar Activator] You can camouflage into your surroundings to become invisible, but use hunger doing so
 * **Sharp Claws**: Binturongs deal extra damage with their sharp claws
 * **Paws Down**: When crouching, binturongs are smaller
 * **Flammable Fur**: Binturongs hide is very flammable, so it causes themextra damage
@@ -246,7 +246,7 @@ Impact: ◉◉◉
 _Birds are small and very cute. They can also fly and chirp._
 
 * **Extreme Need for Mobility**: Birb is very tiny which makes it hard for it to wear anyarmor apart from leather, gold, chainmail, and iron chestplates.
-* **Feathery Grip**: Due to your weak wings, you can't load bows or crossbowsnormally, which makes the amount of damage you do with arrows way less. Because of your wings, you can't use shieldseither.
+* **Feathery Grip**: Due to your weak wings, you can't load bows or crossbows normally, which makes the amount of damage you do with arrows way less. Because of your wings, you can't use shields either.
 * **Granivore**: As a birb, you prefer to eat wheat seeds instead of other food, soyou can only eat wheat seeds.
 * **Jockey**: You can ride on other players.
 * **Flap**: You can flap your wings to send you forward.
@@ -254,7 +254,7 @@ _Birds are small and very cute. They can also fly and chirp._
 * **Small Birb**: Birbs are small, you are a birb so you are small too. Since you are abirb you also have natural wings!
 * **Small Appetite**: As a small birb, you don't have to eat as much.
 * **Smaller Body**: Small birb has less hearts.
-* **Tweet**: [Save Toolbar Activator] Birbs love to repeat what other things nearthem say, and now with that ability, they can find where the sound is coming from to know where things are nearby!
+* **Tweet**: [Save Toolbar Activator] Birbs love to repeat what other things near them say, and now with that ability, they can find where the sound is coming from to know where things are nearby!
 
 ## Blazian
 Impact: ◉◉◉
@@ -277,23 +277,23 @@ Impact: ◉◉
 
 _You are some kind of blob, you don't know anything about yourself but you seem to know already about the world around you._
 
-* **Amethyst Eater**: You can eat amethyst shards due to thinking they are a partof you.
+* **Amethyst Eater**: You can eat amethyst shards due to thinking they are a part of you.
 * **Blob Creature**: You are as tall as a husk, but you have fewer hearts.
 * **Pinkish**: You are pinkish.
-* **Electrical Immunity**: Somehow, lightning goes right through you withoutdealing any damage.
-* **Frozen Feet**: When in cold biomes, you'll gain speed because your jelly-likeskin freezes to become a lot more stable to walk with.
-* **Heal**: [Save Toolbar Activator] Increase your health bar by gaining temporaryblindness + slowness.
-* **Health Bar**: Although you still use normal hearts, your health has beenreplaced by a health bar. Using abilities or getting hit causes the bar to go down a constant amount.
-* **Own Self**: You can shoot out a part of yourself (This uses 20% of your healthbar).
+* **Electrical Immunity**: Somehow, lightning goes right through you without dealing any damage.
+* **Frozen Feet**: When in cold biomes, you'll gain speed because your jelly-like skin freezes to become a lot more stable to walk with.
+* **Heal**: [Save Toolbar Activator] Increase your health bar by gaining temporary blindness + slowness.
+* **Health Bar**: Although you still use normal hearts, your health has been replaced by a health bar. Using abilities or getting hit causes the bar to go down a constant amount.
+* **Own Self**: You can shoot out a part of yourself (This uses 20% of your health bar).
 * **Melting Hands**: Your hands melt in hot biomes making you weaker.
 * **New World**: The nether is a new place for you, so your hands get a bitweaker from the stress that it gives you.
-* **No Lungs**: Although you are weak in water, you still don't drown in it becauseyou don't need to breathe.
+* **No Lungs**: Although you are weak in water, you still don't drown in it because you don't need to breathe.
 * **Paranoia**: You are so paranoid that when you are hit, you get a short speedboost.
 * **Side Step**: Double tapping a movement key will dash in that direction.
-* **Little Trick**: Your attack will give a stack, up to 3 times, at 3 stacks,Your next attack deal more damage and set to one stack, it will reset after some times not attacking.
+* **Little Trick**: Your attack will give a stack, up to 3 times, at 3 stacks, your next attack deal more damage and set to one stack, it will reset after some times not attacking.
 * **Strange Storage**: You can store things inside yourself and they don't drop on death.
 * **Survival Instinct**: You are stronger when your health bar is more than half full.
-* **Puddle**: When wet, you start transforming into some kind of puddlemaking you slower and hungrier.
+* **Puddle**: When wet, you start transforming into some kind of puddle making you slower and hungrier.
 * **Wisdom**: You receive 175% more xp from all sources. [Right-Click] whileholding a book to gain 20 experience points.
 
 ## Boarling
@@ -301,11 +301,11 @@ Impact: ◉◉
 
 _This tough-skinned race relies on their strength alone to get by in life._
 
-* **Delicious**: The smell of bacon encourages your attackers to deal far moredamage. Be careful around fire!
+* **Delicious**: The smell of bacon encourages your attackers to deal far more damage. Be careful around fire!
 * **Savory**: All food is far more saturating.
-* **Hog Sounds**: Being in Hog-Wild state will play audio queues every once ina while
-* **Hog-Wild**: If at or below half health, you will enter a rage state,boosting both your speed and attack damage.
-* **Cloven Hands**: Your lack of fingers prevents you from using shields andprojectile weapons.
+* **Hog Sounds**: Being in Hog-Wild state will play audio queues every once in a while
+* **Hog-Wild**: If at or below half health, you will enter a rage state, boosting both your speed and attack damage.
+* **Cloven Hands**: Your lack of fingers prevents you from using shields and projectile weapons.
 * **Heavyweight**: Your unhealthy appetite has you move slower than usual.
 * **Strong**: Your base attack damage is much higher than average.
 * **Tough**: Your thick skin and weight reduces any received knockback orprojectile damage.
@@ -316,11 +316,11 @@ Impact: ◉◉◉
 _The mother of the arachnid colonies, the broodmother is an elder being capable of great destruction. Often feared by those who utter the name_.
 
 * **Climb**: [Save Toolbar Activator] You are fast and at will, you canclimb blocks!
-* **Prey**: Attack a target in a cobweb, using your fist to feedyourself.
-* **Cursed Mother**: You take increased damage that ignores armor fromweapons enchanted with Bane Of Arthropods.
+* **Prey**: Attack a target in a cobweb, using your fist to feed yourself.
+* **Cursed Mother**: You take increased damage that ignores armor from weapons enchanted with Bane Of Arthropods.
 * **Exoskeleton**: Like spiders, you are equipped with an exoskeleton – ahard, external covering that provides both structural support and protection from predators.
 * **Extra Hearts**: Because of your ancestry, you get extra hearts.
-* **Long Jump**: Spiders can modify their speed and with their powerfullegs, they increase the distance they can jump. While sprinting, you jump higher.
+* **Long Jump**: Spiders can modify their speed and with their powerful legs, they increase the distance they can jump. While sprinting, you jump higher.
 * **Cave Spawn**: You spawn in an Abandoned Mineshaft.
 * **Arachno-Immunity**: Your body does not react to poison as it is immune toit.
 * **Poison Touch**: You release venom at the touch. Injecting poison toothers when you hit them.
@@ -329,7 +329,7 @@ _The mother of the arachnid colonies, the broodmother is an elder being capable 
 * **Friendly Kinship**: Spiders and Cave Spiders are all your allies and willnot attack you.
 * **Spider Strength**: Your anatomy allows you to be stronger.
 * **Newborn Fighters**: You can summon cave spiders.
-* **Web Shot**: Launch a web in the direction you're facing. Deals damage ifit lands on the same block as an entity.
+* **Web Shot**: Launch a web in the direction you're facing. Deals damage if it lands on the same block as an entity.
 
 ## Calamitous rogue
 Impact: ◉◉
