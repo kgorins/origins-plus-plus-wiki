@@ -336,111 +336,325 @@ Impact: ◉◉
 
 _You lurk in the shadows, waiting for just the right moment to strike. Luckily for you, unlike the average rogue you've learned different weapon disciplines for ambushes._
 
+* **Big Game Hunter**: Killing withers, ender dragons, illagers, and iron golems gives you bonus emeralds. However, other entities have a 20% chance to not drop anything.
+* **Bounty Target**: The villagers put a bounty on you, so they won't tradewith you unless you use Smooth Talk on them.
+* **Bad DPS**: As an assassin, you suffer from reduced damage if your stealth bar isn't full.
+* **Secrets of the Trade**: Place a marker at your feet. If you get a kill on anything while sneaking, teleport back instantly.
+* **Weapon Expert**: On-hit, instantly restore 1 durability of your weapon ata 33% chance unless the weapon is 1 hit away from breaking.
+* **Infamous**: Iron golems will attack you the moment you break cropsnear them.
+* **Smooth Talker**: [Sneak + Right-Click] a villager to raise your reputation with them, letting you trade even despite Bounty Target. If a villager is nearby after 10 seconds, irongolems will begin hunting you.
+* **Ambush**: Strikes while in stealth reset your bar, but gain an extra effect based on your held item. Axes shatter shields, dealing heavy damage to the item. Shields stun the victimfor a short time and breaks their flight if any. Swords cut any health-increasing status effects on the target. Melee trident hits deal drowning damage after a short delay.
+* **Thrill of the Hunt**: Ambush strikes make your victim glow for a medium duration for you.
+* **Without a Trace**: Your stealth bar refills instantly after scoring akill.
+
 ## Candyperson
 Impact: ◉◉
 
 _A sugar-like entity that has a serious problem with sweet food!_
+
+* **Cake Master**: You are able to craft a cake with 9 sugar in a crafting table
+* **Cookie Master**: You are able to craft a cookie with 4 sugars in a crafting table
+* **Favorite Food**: Eating cookies gives you more saturation than normal
+* **Hard Candy**: Temporarily get resistance, but lose some food points
+* **Sugar Addict**: You MUST eat sweet food!
+* **Sugar Expert**: You don't take damage from sweet berry bushes.
+* **Sweet Kit**: You start with some sugar related items
+* **Sugar Recipe**: Craft 9 sugar with 9 sweet berries in a crafting table
+* **Sugar Eating**: When you have sugar in your offhand, you eat it and get sugar effects
 
 ## Child of cthulhu
 Impact: ◉◉
 
 _You are a descendant of Cthulhu._
 
+* **Camouflage**: You change the color of your skin if you are in water or on land.
+* **More Appetite**: You get hungry more often.
+* **Fire Weakness**: Fire represents everything you are against for, soit deals triple damage to you.
+* **Gift Of The Skies**: You can launch yourself in the air, in the direction youare looking at.
+* **Extra Reach**: You have extra reach.
+* **Morphing**: You can switch between Small, Normal and Large size
+* **Amphibious**: Since you have grown use to water, you get slowness on land (when it is not raining).
+* **Water Lungs**: You are granted with permanent Water Breathing.
+* **Water Vision**: You have perfect underwater vision.
+
 ## Chimaera
 Impact: ◉◉◉
 
 _Dark Inquisitors made with eldritch and draconic magic in order to hunt demons and the undead. You are what we in the biz call 'chaotic good' However, beware that, when fighting monsters, you yourself do not become a monster..._
+
+* **Anoxic**: You are made to hunt monsters on foreign worlds, thus you do not need Oxygen
+* **Chimeric**: You are heavily mutated and made for a high risk combat, you won't use shields as they slow you down. Fire is something you need to deal with as you are critically weak to it
+* **Miasma**: Let loose your bioweapon to rot away whatever caught your ire.
+* **Pathophagy**: You are made to directly absorb material to repair yourself. Hurting something will restore hunger. However, you can't eat normal food as you are a synthetic creature
+* **Phase Shift**: You teleport after taking damage. (Up to once per minute)
+* **Schrödinger's Vitality**: Your HP is cut in half under the sun, it is uncertain your biology is living or dead.
+* **Unstable**: Made to adapt you take in potion effects one level stronger,however, this also applies to negative ones as you seem to be defective
+* **Xenite Implants**: Eldritch metal cancels out any G-Forces on your body, making you immune to fall damage.
 
 ## Cobra
 Impact: ◉
 
 _You are a small cobra, your fangs are full of poison and you are ready to attack when you need to._
 
+* **Cobra's Touch**: To defend yourself, you poison people you attack.
+* **Cold Weakness**: You don't like cold. Staying on a cold place will start to lower your temperature. A bar of cold will start to increase. Having some cold will apply you slowness plus slightly blue skin. Reaching Max cold will increase the slowness level and blue tone, and you will start to get damage. Cold will naturally decrease after leaving the cold place.
+* **Green Skin**: Your skin has turned green from the mass of scales covering your body.
+* **One Block Tall**: You are one block tall.
+* **Poison Shot**: Shoots a Poison Arrow wherever you are looking at.
+* **Scale Armor**: Your scales provide natural protection, giving you 1 bar of armor.
+* **Heat Strength**: You are naturally stronger because of the heat, you gain strength during the day and in the nether.
+
 ## Copper golem
 Impact: ◉◉◉
 
 _Comprised entirely of copper, 'tis a sturdy machine._
+
+* **Iron Defense**: You have a small permanent armor boost.
+* **Sturdy**: You have 12 hearts.
+* **Copper Machine**: You cannot eat regular food. Instead, you can consume copper by placing it in your offhand. Raw copper gives two points, copper ingot gives 3, and a copper block gives 10.
+* **Oxidation**: You oxidize over time in three stages. The more oxidized you are, the slower and weaker you will become. Place honeycomb in your offhand, and it will be consumed to undo oxidation.
+* **Small**: You are naturally half a block tall.
+* **Iron Fists**: You have a small permanent damage boost.
 
 ## Corrupted wither
 Impact: ◉◉◉
 
 _You were experimented on by scientists and were exposed to dragons breath. You killed the scientists, but not before the experiment was complete..._
 
+* **Hungry**: Even thought you are a skeleton you still somehow need food and need it often...
+* **Skirmish**: You warp to another dimension becoming invulnerable to any kind of damage and become invisible, when enter/exiting the dimension you emit a sound.
+* **Warp**: You can cause any nearby projectiles to warp and slow down allowing you to dodge them with ease.
+* **Wieldy**: You are a wither skeleton and thus deal an extra heart of damage with any type of sword.
+
 ## Craftsman
 Impact: ◉
 
 _You are the heir of a long lineage of craftsmen and knights, so you are proficient in arts and crafts._
+
+* **Axe Wielder**: Learning from your family, you learned how to use axes more proficiently than others.
+* **Crafting On The Road**: Due to your specialization in crafting you don't require a crafting table to craft, being able to summon a crafting GUI.
+* **Homely Forge**: Spending your time on the forge you became immune to heat and fire. You still take damage in lava.
+* **Natural Fear**: "You take more damage from your natural enemy, the Pillagers. 
+* **Villager's Instinct**: However much you train, you aren't able to get over your fear of the undead.
+* **Sheltered Villager**: You lived a sheltered life, as such you didn't leave the village growing up. You spawn in a village.
 
 ## Dark mage
 Impact: ◉◉◉
 
 _A practitioner of dark magic, you are an evil being that hates happiness and all living beings._
 
+* **Weak**: You deal 70% less physical damage.
+* **Dislocate**: You can teleport anywhere within a 25 block range.
+* **Disruption**: Attack spell that crushes enemies.
+* **I Need More HP!**: You only have 5 hearts.
+* **Hidden Knowledge**: [Primary] + [Shift] You can turn a book in your offhand into a Mage Spell Book.
+* **Unskilled**: You can't use ranged weapons.
+* **Recover**: Use mana to heal yourself.
+* **Mana Bar**: You have a mana bar which can be used to cast spells. If you run out of mana, you die.
+* **Slow Mage**: You have permanent slowness.
+
 ## Deathsworn
 Impact: ◉◉◉
 
 _You are a necromancer with control over everything belonging in the afterlife._
 
+* **Relocation**: [Sneak + Left-Click] a minion to turn it into a Petrified Heart again.
+* **Execute Order**: Single out a mob for all of your minions to target.
+* **Blood Magician**: Your blood sacrifices reduced your max health. Summoning minions reduces it even further, if you stay near them.
+* **Resupply**: Your minions will automatically pick up items on the ground to use as gear.
+* **Display of Loyalty**: [Sneak + Right-Click] a minion to make it wait for you patiently, freezing it in place. Do it again to unfreeze a minion.
+* **Occultist's Eulogy**: Mobs you summon won't attempt to attack you.
+* **Cursed Nights**: Your SOUL bar regenerates slowly at night.
+* **Wrong Class**: You barely deal any damage with swords and axes.
+* **Stains of the Occult**: Villagers refuse to trade with you.
+* **Heart-Stopping**: Most hostile mobs you kill drop petrified hearts, containing their vital data. SOUL is needed to summon bound mobs.
+* **Submit!**: [Save Toolbar Activator] You can fire a ray of dark energy at will to deal light magic damage. The damage increases as your expertise in necromancy increases.
+* **SOUL Energy**: Like all occultists, you use SOUL energy for your demonic rituals. Accumulate it by killing mobs.
+* **Unleash Potential**: Sacrifice your vitality to unleash a special ability of all your minions within 8 blocks. You will receive a book detailing each. Requires your SOUL to be higher than 50%, but doesn't consume SOUL.
+* **Demonic Pact**: Using the power of 5 SOUL Energy and a petrified heart in your hand, summon its bound mob to serve you. Some mobs have special abilities that can be used at will.
+* **Power Siphon**: When at least 2 minions are nearby, they will sacrifice themselves to protect you from a fatal hit, dying to do so.
 
 ## Demi god
 Impact: ◉◉
 
 _After training for years on end you have overworked yourself to the point of being unstoppable, the only beings that would be able to beat you are the bosses themselves._
 
+* **Curse of the Underworld**: As you are a (half) god, you are cursed by the underworld when you are in the nether.
+* **Fire Weakness**: Fire represents demons (your adversaries), so you take extra fire damage.
+* **God Punch**: You are a skilled soldier, and therefore you possess abilities to gain strength for a short while.
+* **God Speed**: Because of your nature, you are naturally faster than most (when not in the nether).
+* **Descendant of the Gods**: Because you are descended from gods, you have extra health.
+* **Revenge From The Gods**: You are weakened and take more damage from the Gods themselves (the bosses).
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **A Raw Diet**: You can only eat raw food.
+
 ## Deranged
 Impact: ◉◉
 
 _You are an ordinary human, but you come from a rotten and horrible family that hurt you when you were young. You came to think that this was the norm, and then you became mentally unsound._
+
+* **Blinding**: Any arrow you shoot, will cause slowness II.
+* **Breathing**: You calm yourself, empty your mind, and then start to breathe. Breathing decreases your derangement bar by 25.
+* **Tranquilizer**: You can launch 3 darts anywhere in the direction you are looking. This dart will cause slowness II.
+* **Sadist**: Killing something increases your derangement bar by 25. That's pretty gross man.
+* **Derangement**: You have a deranged bar, there are different effects for different levels of derangement. You fill up your derangement bar by killing something. However, to decrease your derangement bar, you use your breathing ability.
+* **Insane**: When your derangement bar is over or equal to 75, you will go insane. While insane, you deal an extra 2 hearts of damage, but your mental state is so broken that you are only left with 4 hearts to spare.
+* **Aichmomania**: You have an obsessive love for sharp and pointy things such as knives, so you became well versed on how to fight with them. The damage you do with swords adds an extra heart of damage.
+* **Migraine**: The world looks a little bit different when you're insane. Literally.
+* **Insomnia**: You have horrible nightmares when you fall asleep, because of this you've stopped sleeping altogether.
+* **Persuasive**: You've learned to convince and persuade many people over the years. Now, you can now use this to haggle with villagers to lower your prices.
+* **Tranquil**: When your derangement bar is lesser than or equal to 25 it will put you in a tranquil state. While tranquil, you are as fit as a fiddle. Being tranquil gives you Speed 2 and, Jump 1 as well.
 
 ## Devine architect
 Impact: ◉◉◉
 
 _Long ago before the formation of the Minecraft universe there were groups of architects the construct each element of the universe. They all worked together to construct all the blocks and biomes of the universe, but eventually they all went extinct once their jobs had finished. All except for you..._
 
+* **Distrust**: Many attempted to take your powers by attempts at your life. You've became paranoid, unable to trade with villagers and unable to interact with some passive and neutral mobs. Iron Golems have grown wary of your presence through the years, now they attack you on sight!
+* **Resourceful**: You mine end materials faster than others, and you can always pick up end stone regardless of the tool you're using. You can also craft stone tools, brewing stands, furnaces, and levers with end stone.
+* **Dimensional Traveler (End)**: [Load Toolbar Activator] Teleport to your exact position in the end
+* **Energy**: Your energy is shown. You use this to activate the Universal Blast. This fills faster at night than at day.
+* **Float**: You can float (but it's too exhausting to fly for long).
+* **Jealousy**: The Bosses are jealous of your abilities and wish to obtain them - even if they have to kill you to do so... (Bosses do more damage to you)
+* **Dimensional Traveler (Nether)**: [Save Toolbar Activator] Teleport to your exact position in the nether
+* **Night Vision**: You can see better at night.
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Universal Blast**: You can shoot a beam of condensed universal energy.
+* **Unnatural Regeneration**: Regeneration works differently for your kind.
+
 ## Dolphin
 Impact: ◉◉
 
 _Dolphins are aquatic creatures that likes to jump out of the water, and are most likely found in the ocean._
+
+* **Water Particles**: Since you are in the water so much, you get bubble particles around you.
+* **Pescatarian**: You can only eat raw fish, but it gives a lot more hunger bars than usual.
+* **Ocean Spawn**: Your natural spawn is in the ocean.
+* **Dolphin Jump**: Like a dolphin you can jump out of the water.
+* **Slow and Weak on Land**: Because you are not used to being on land you get Slowness and Weakness while not in water.
+* **Fast Swimmer**: Dolphins are really fast swimmers, causing you to have Speed II while in water.
+* **Dolphin Wrangler**: Dolphins usually travel in groups, causing you to be able to spawn a dolphin.
+* **Water Breathing**: Due to the way your lungs are formed you can hold your breath underwater permanently.
+* **Water Vision**: Dolphins can see under water due to the way their eyes were made.
 
 ## Drakonwither
 Impact: ◉◉
 
 _The child of the wither and the dragon. You are an unnatural anomaly full of powers unknown to man. Alive for hundreds of years and once worshiped by many._
 
+* **Wither Immunity**: You are immune to the wither effect thanks to your (part) wither heritage.
+* **Wither Skull**: You can shoot a wither skull thanks to your wither heritage.
+
 ## Dullahan
 Impact: ◉◉◉
 
 _You are an ancient horsemen, harbinger of death and slavery using your binding chains and horse to kill your victims._
+
+* **Binding Chain**: [Load Toolbar Activator] You can stab a chain into your enemies dealing bleed damage
+* **Nightmare Steed**: Conjure a speedy nightmare steed that will either last 2 minutes or dies when you die.
+* **Spectre's Dismay**: You can shoot the skulls of your enemies laced with the soul of a creeper.
+* **Cower, Run**: Even your presence is scary, making enemies blinded with fear.
+* **Death's Tools**: You always carry items with you gathered on your journeys as a horsemen.
+* **The Deal**: Your way stronger during the night due to your mission to hunt down souls however the daytime weakens you making you thirst for souls insatiable.
+* **Devourer**: As a horsemen, you can't eat anything - only being able to absorb the souls in soul lanterns to give you nutrients.
+* **Boned**: When hit, you have a chance of dropping bones.
+* **Cursed**: Any items embued with a curse can seal you inside the weapon and kill you
 
 ## Earth spirit
 Impact: ◉◉◉
 
 _A spiritual being that rises from the depths of earth taking the stones and soil to make it's physical body._
 
+* **Rock Returnings**: [Load Toolbar Activator] Leave your spiritual form, becoming one with the rock once more.
+* **Stone Weight**: You are as heavy as a rock. You immediately sink upon being in contact with water.
+* **Spirit Skin**: You are close to invisible to the human eye.
+* **Phasing Spirit**: You are in your spiritual form. You can phase through blocks at anytime!
+* **Rocky skin**: Your skin has adapted itself to the to the soil and rocks.
+* **Spiritual Form**: As a spirit-being you are faster than the average person, but you deal little to no damage.
+* **Spirit Vision**: Everything you see is desaturated until you take form again.
+* **Rock Form**: Being rock-like you become one with the rocks. You gain numerous rock abilities and disabilities.
+* **Spiritual Transformation**: [Load Toolbar Activator] Leave your rock body and become spiritual.
+
 ## Ebon wing
 Impact: ◉◉◉
 
 _Ebon-Wings are winged creatures often seen hunting for prey by themselves or with Blood-Horns._
+
+* **Blood Meter**: Your Blood Meter fills up with every kill, upon reaching a certain number of kills, you will unlock abilities, but you will lose those abilities if the Blood Meter drops down below the set value for that ability. You lose blood by taking damage, this is called \"Bleeding\".
+* **Daytime Hurt**: Sunlight damages your form.
+* **Distort**: Gives blindness and nausea to players within 5 blocks. Kill 120 mobs to use this ability.
+* **Good Reflexes**: You are able to dodge and teleport back. Kill 100 mobs to use this ability.
+* **Ebon Effects**: You have natural fire resistance and speed.
+* **Fly**: You can launch yourself into the sky. Kill 100 mobs to use this ability.
+* **Last Resort**: When you die, you instantly cause an explosion.
+* **Banished**: As you feel more at home in the crimson forest, your natural spawn becomes the underworld.
+* **Night Strength**: At night-time, you have strength.
+* **Resistance**: "Due to the nature of your abilities, you've grown immune to the effects of wither, nausea, and blindness.
+* **Smite Being**: You take significantly increased damage that ignores armor from weapons enchanted with smite.
+* **Uncomfortable**: It is impossible for you to sleep above Y = -20.
+* **Wings**: You gain wings that make you immune to fall damage and allows you to glide. Kill 100 mobs to use this ability.
+* **Withered**: [Save Toolbar Activator] Gives Wither effect to players within 5 blocks. Kill 120 mobs to use this ability.
 
 ## Emblazing warrior
 Impact: ◉◉
 
 _You are one of the nether entities sent to the overworld to cause chaos and disruption. Your powers are tied to your injuries._
 
+* **Clouded Judgement**: At 3 fury, you can no longer see your health.
+* **Red Hot Chili**: At 3 fury, you will begin burning.
+* **X-Slash**: You are able to unleash a strong attack in a X-shaped cross in front of you, dealing damage to everything inside, including you. The attack's shape will change to a +-shaped cross upon reaching 3 fury.
+* **Demanding Lifestyle**: You get hungry faster than the average person.
+* **Burning Blood**: X-Slash deals less damage to you than to other mobs. You also take less damage from being set on fire. With 3 fury, you will not take damage from X-Slash or burning.
+* **Flaming Fury**: For each 25% HP lost, you will gain fury, which increases all of your powers' effectiveness.
+* **Ignition**: Whenever you attack with at least 1 fury, there is a 33% chance to ignite mobs to your left or right side. At 2 fury, this will ignite enemies on both sides at a 66% chance. At 3 fury, the chance of this activating increases to 95%.
+* **Uncontrollable**: You take +1♥ damage from entities if you have less than 2 Fury.
+* **Torrent of Abuse**: The higher your fury is, the more damage you deal with attacks.
+* **Different World**: In the world you came from, you never earned EXP from killing mobs. You gain coins instead; after you gain enough coins, you can get an emerald.
+
 ## End mage
 Impact: ◉◉◉
 
 _An ancient mage who studied the creatures of the end and tried to become one._
+
+* **Hidden Knowledge**: You can turn a book into a End Book using [Primary + Shift] with a book on your offhand.
+* **End Rage**: [Secondary + Shift] You can give strength and speed to everyone near you with your. (6 Block Range)
+* **I Need More HP!**: You only have 8 hearts.
+* **Self Teleportation**: You can teleport wherever you want. (90 Blocks Range)
+* **Teleport To You**: [Primary + Shift] You can teleport players, mobs or items to you. (80 Blocks Range)
+* **Mana Bar**: You have a mana bar if you run out of mana you die.
+* **Mana Bug**: Mana Bugs will teleport to you if your mana is low
+* **End Telekinesis**: You can use telekinesis to attack your enemies.
 
 ## Enigma
 Impact: ◉◉
 
 _Mystery... puzzles... trickery... You make people live in fear of themselves and question their own sanity._
 
+* **Behind You**: [Save Toolbar Activator] Nothing can evade you... Use this ability to teleport behind anyone.
+* **Clone**: Summon a clone at your place and become invisible. If either of you get hit, become visible again and create an explosion that deals damage at the clone, killing it. Press the same key while your clone is alive to kill it.
+* **Hated**: They all betray us. Villagers won't trade with us, and we can't tame anyone.
+* **No Fighting**: You can only stare people down to death. No swords or axes...! You can punch people to death too, though.
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Good Sight**: "Sneak to see all players, even through walls. You also have permanent night vision.
+* **Staring Contest**: Staring at an entity for a long enough time will kill it. When you begin looking at it, it'll gain slowness & weakness. Later on, your stare will inflict blindness and nausea.
+
 ## Fallen angel
 Impact: ◉◉◉
 
 _After spending an eternity in hell, you finally escaped and are craving some revenge._
+
+* **Strong Arms**: You have strong arms and can mine stone with your fist.
+* **Bloodthirsty**: Due to your demonic nature, you are strong.
+* **Deadshot**: You can shoot a wither skull.
+* **Demonic Flight**: After you died, you lost your wings but you will soon find out that you won't need them... (Invisible Elytra)
+* **Trauma**: The feel of fire brings you back to your suppose-to-be torture in hell, so you take more damage from fire.
+* **Fragile**: You only have 8 hearts from all the torture in hell.
+* **Demonic Presence**: You are glowing due to your immense demonic energy.
+* **Strong Fists**: You are very strong, giving you haste.
+* **Effect Immunity**: You are immune to Wither, Poison, Nausea, and Instant Damage from enduring so much Pain in Hell.
+* **Deja Vu**: The thought of being back in that horrid place still haunts you, so you don't like to be under roofs, being a little slower in such cases.
+* **Light Skin**: You are Translucent due to you being a Demon.
+* **Deadly Expulsion**: You can launch extremely far due to your forced conditioning in Hell, forming a withering dust cloud as you launch.
 
 ## Felvaxian
 Impact: ◉◉
