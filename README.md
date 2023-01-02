@@ -149,7 +149,7 @@ _Once an ancient star, now unstable energy._
 * **Scorching Sun**: The starlight in you greatly weakens you during the day, be careful until nightfall. 
 * **Supernova**: Your body is made of pure energy, so you are slightly transparent and you don't seem to have bones?..
 * **Time? Space? Who dis?**: Anomalies are highly unstable, but you can use this to your advantage; you can teleport where you want to go.
-* **Unstable**: "Due to your unstable state, your body will periodically fade away causing hunger.
+* **Unstable**: Due to your unstable state, your body will periodically fade away causing hunger.
 
 
 ## Artificial construct
@@ -205,13 +205,13 @@ _You are bedrock._
 * **Food**: You never have eaten so you never have a full food bar
 * **Miner**: You were built to mine so you mine faster.
 * **Bedrockean Heal**: You heal differently than most, so you have a constant heal, but half a heart each second and a half
-heavy_body.name":"Heavy Body**: "Due to your great weight you can barely jump a block high.
+* **Heavy Body**: Due to your great weight you can barely jump a block high.
 * **Invincible**: Like your ancestors, you can be immune to all damage - however, when you do this it costs yourspeed, strength, and it takes much longer to heal.
 * **Earth Familiarity**: Your familiarity with the earth allows to to find treasures others cannot.
 * **Lava Vision**: Since you are most of the time covered in lava you have adjusted to see in it.
 * **No Elytra**: Due to your great density you could not ever fly.
 * **Potion Immune**: Your skin is too hard for potions to get through and effect you
-* **Powerful Arms**: "Due to your great strength you can launch mobs into the air when you hit them.
+* **Powerful Arms**: Due to your great strength you can launch mobs into the air when you hit them.
 * **Short**: You are a block tall because you used to be a block.
 * **Rested**: You got plenty of rest while you sat at the bottom of the world, why would you need any more?
 * **Deep Down**: You spawn in the nether where there is double the amount of bedrock.
@@ -223,7 +223,7 @@ Impact: ◉◉
 
 _A binturong is a bear cat of the trees._
 
-* **"Weak to Explosions**: Binturongs are weak to explosion damage
+* **Weak to Explosions**: Binturongs are weak to explosion damage
 * **Camouflage**: [Save Toolbar Activator] You can camouflage into your surroundings to become invisible, but use hunger doing so
 * **Sharp Claws**: Binturongs deal extra damage with their sharp claws
 * **Paws Down**: When crouching, binturongs are smaller
@@ -434,7 +434,7 @@ _You are the heir of a long lineage of craftsmen and knights, so you are profici
 * **Axe Wielder**: Learning from your family, you learned how to use axes more proficiently than others.
 * **Crafting On The Road**: Due to your specialization in crafting you don't require a crafting table to craft, being able to summon a crafting GUI.
 * **Homely Forge**: Spending your time on the forge you became immune to heat and fire. You still take damage in lava.
-* **Natural Fear**: "You take more damage from your natural enemy, the Pillagers. 
+* **Natural Fear**: You take more damage from your natural enemy, the Pillagers. 
 * **Villager's Instinct**: However much you train, you aren't able to get over your fear of the undead.
 * **Sheltered Villager**: You lived a sheltered life, as such you didn't leave the village growing up. You spawn in a village.
 
@@ -589,7 +589,7 @@ _Ebon-Wings are winged creatures often seen hunting for prey by themselves or wi
 * **Last Resort**: When you die, you instantly cause an explosion.
 * **Banished**: As you feel more at home in the crimson forest, your natural spawn becomes the underworld.
 * **Night Strength**: At night-time, you have strength.
-* **Resistance**: "Due to the nature of your abilities, you've grown immune to the effects of wither, nausea, and blindness.
+* **Resistance**: Due to the nature of your abilities, you've grown immune to the effects of wither, nausea, and blindness.
 * **Smite Being**: You take significantly increased damage that ignores armor from weapons enchanted with smite.
 * **Uncomfortable**: It is impossible for you to sleep above Y = -20.
 * **Wings**: You gain wings that make you immune to fall damage and allows you to glide. Kill 100 mobs to use this ability.
@@ -635,7 +635,7 @@ _Mystery... puzzles... trickery... You make people live in fear of themselves an
 * **Hated**: They all betray us. Villagers won't trade with us, and we can't tame anyone.
 * **No Fighting**: You can only stare people down to death. No swords or axes...! You can punch people to death too, though.
 * **Phase**: You can pass through blocks (but it's too unstable to phase for long).
-* **Good Sight**: "Sneak to see all players, even through walls. You also have permanent night vision.
+* **Good Sight**: Sneak to see all players, even through walls. You also have permanent night vision.
 * **Staring Contest**: Staring at an entity for a long enough time will kill it. When you begin looking at it, it'll gain slowness & weakness. Later on, your stare will inflict blindness and nausea.
 
 ## Fallen angel
@@ -661,80 +661,231 @@ Impact: ◉◉
 
 _A feline raven that can soar and pounce. A carnivorous hunter and high flyer._
 
+* **Feline Legs**: Your legs not only make you jump higher but let you run faster
+* **Pounce**: You strong legs have given you the ability jump high
+* **Raven's Defense**: Your raven heart allows you to camouflage and become invisible to do this you must shift
+* **Scavenger Pouch**: Your scavenger nature allows you to find ways to store items and preserve them
+* **Soaring Wings**: As your wings have disappeared you can only soar
+* **Tiger's Roar**: The king of felines empowers you and lets you send out a terrifying roar
+* **Unholy Aura**: Your raven-like aura makes your skin dark and black
+
 ## Flea
 Impact: ◉◉◉
 
 _A nasty little bloodsucking pest..._
+
+* **Bloodsucking**: By punching your victims while NOT crouched, you can drain their blood and receive healing, saturation, or a small buff. This is your only way to feed.
+* **Diseased Bite**: By punching your victims while crouched, you can afflict them with a random negative effect.
+* **Microscopic**: You're barely 3 pixels tall. Drink some milk. Or blood. Either works. Actually, no, only blood does.
+* **Jockey**: You can ride on other players.
+* **Nimble**: Being small has its perks. Prickly plants, high falls, and crash landings don't hurt.
+* **Smallest Heart**: Being a miserable tiny insect means you only have four hearts of health.
+* **Smallest Stomach**: You do not need much food to keep going.
 
 ## Frog
 Impact: ◉◉◉
 
 _Your frog character has certain traits deriving from your frog ancestry._
 
+* **Jump**: You can jump high.
+* **Dehydration**: When your exposed to the sun you will dehydrate and die.
+* **Amphibian**: You can breath under water.
+* **Powerful Toxin**: Your skin produces a toxin that you can use to poison others.
+
 ## Gaia
 Impact: ◉◉
 
 _You are the mother of all nature, a goddess of earth with a passion for the flowers you've created._
+
+* **Floral Teaming**: Your bond with flowers and nature means they give you their strength when you are around them. Different flowers offer different effects.
+* **Floral Superiority**: You gain Regeneration, Saturation and Speed when around a group of 3 or more flowers.
+* **Fungal Enemy**: Though you created them, you aren't exactly friends with Fungi. They do their best to hinder you when you're around them.
+* **Light As A Flower**: You're as light as a flower giving you slow falling whenever you please.
+* **Nature's Danger**: You are more at risk to dying from drowning, withering, and burning!
+* **Photosynthesis**: You can regain hunger from the sun.
+* **Plant Based**: You simply can't consume meats.
+* **Prickly**: You have natural thorns.
+* **Rose-Sized**: You are naturally smaller in size, being the size of a lovely rose.
+* **Thorned Punch**: You have thorns all over your body, and the ones on your fists are designed to have a weak poison.
 
 ## Ghast
 Impact: ◉◉◉
 
 _Ghosts of players who died in the nether, the only thing these spirits can remember is that they were trying to find a way back home._
 
+* **Fire Charge**: You're able to shoot a fireball. The cooldown is drastically reduced in the nether.
+* **Float**: You can float (but it's too exhausting to fly for long).
+* **Miserable**: Your melee attacks are weaker due to your depressed nature.
+* **Nether Phasing**: Being a ghost you can phase through blocks, though you can only do this in the nether and you can't phase through obsidian.
+* **Tall**: You are slightly taller than the average player.
+
 ## Giant
 Impact: ◉◉◉
 
 _The giants are an ancient race, becoming quite a rare sight in modern times. Their history remains unknown with few left to keep it alive._
+
+* **Giant Heritage**: Leather armor gives you as much protection as iron armor
+* **Super Sized**: You're twice the size of a regular person
+* **Excessive Power**: Bows and crossbows break after use
+* **Oversized Lungs**: You have twice as much oxygen
+* **Huge Heart**: You have twice as much health
+* **Massive Stomach**: Your hunger drains 50% faster
+* **Cumbersome**: You're unaffected by levitation, but incapable of using an elytra
+* **Long Limbs**: You jump twice as high, have 33% more reach, projectiles go twice as far, and you don't slip on ice
+* **Piggyback**: Other players can ride on top of you, you can pick up mobs, and you can throw your passenger
+* **Colossal Slam**: You can slam into the ground, creating a small explosion and throwing off passengers
+* **Gigantic Bed**: You need to put 4 beds together to sleep
+* **Unwieldy Arms**: You attack 33% slower than most
+* **Arachnophobia**: You take 3x damage from arthropods
+* **Gargantuan Strength**: You deal 33% more melee damage and 50% more knockback
+* **Extremely Sturdy**: You take 50% less fall damage, 33% less knockback, and mine 50% faster
+* **Heavy**: You fall 50% faster than normal, can't float in water, and can't ride any animals or vehicles
 
 ## Glacier
 Impact: ◉◉◉
 
 _A mystical creature born out of snow and ice. You were created out of the cold and have lived long enough to know that the cold can kill all._
 
+* **Chilly Person**: If you're inside the powder snow block, you don't take freezing damage.
+* **Cold Blooded**: When in hot biomes and Nether, you cannot use your special abilities.
+* **Cold Feet**: You are able to walk on water by turning it into ice.
+* **Cold Nap**: You can't sleep when it's not cold enough. One half of your bed needs to be adjacent to at least 3 blocks that belong to snow or ice block tags.
+* **Cold Protection**: Powder Snow drops your temperature down enough for you to survive in hot environments for a few minutes.
+* **Blue Skin**: Your cold nature makes your skin blue.
+* **Fire Damage**: You take 2x more fire damage.
+* **Freezing Touch**: When you deal critical damage, your touch temporarily freezes the target. If the target is resistant to fire, it takes 2.5 hearts from it.
+* **Snow Harvester**: You're able to collect Snow and Ice with your bare hands. However, you still need to use a bucket to collect Powder Snow.
+* **Hot Sun**: You do not like sun's hot rays which makes you weaker during the day.
+* **Icy Breath**: You can breathe ice, freezing enemies and dealing a little bit of damage to them.
+* **Icy Defense**: Due to you having to exercise to keep yourself warm you have 1 armor bar filled.
+* **Icy Spawn**: You spawn in a Ice Spike biome.
+* **Multi-Snowballs**: If you throw a snowball when sneaking, it is split into 10. Snowballs also do more damage to opponents.
+* **Night Person**: You like the cold night making you powerful at night time.
+* **Overheating**: When in hot biome, you're getting slower, weaker and you start dying. You can prevent this by getting inside powder snow, drinking a fire resistance potion or staying in water, but you're still slow and weak.
+* **Snowflakes**: Your body emits snowflakes.
+* **Snowy Sprinter**: When on snow and ice, you are able to run extremely fast.
+* **Snow Damper**: Falling on snow prevents you from taking fall damage.
+
 ## Gnoll
 Impact: ◉◉◉
 
 _You are a strong, large, carrion eater with a temper!_
 
+* **Carrion Eater**: You do not suffer from the hunger condition, and in fact benefit from it.
+* **Large Build**: You tower over humans, making their armour too small for you
+* **Low-Light Vision**: When exposed to moonlight you can see clearly at night.
+* **Rage**: Being reduced to under half your health will send you into a rage, increasing your knockback resistance, speed, and toughness.
+
 ## Golden golem
 Impact: ◉◉◉
 
 _A golem created by the illagers with gold and totems of undying._
+* **Stronger**: You have a small damage bonus.
+* **Gilded**: You take on a gold-like color.
+* **Golem's Light**: You have a power bar that goes up to ten. With [Primary], You can use three to increase speed temporarily, or with [Primary + Shift, you can use five to increase strength. If the bar is max, it is like holding a totem of undying.
+* **Golem Strength**: You gain extra buffs depending on how much health you have.
+* **Golem Power**: You have a bar that will heal you if above 20. The max is 50. Getting hit lowers the bar by 5. You have no need to eat. You can spend 20 power to use an ability that give you resistance and slowness.
+* **Slow**: You naturally move slower
+* **Sinking Weight**: You sink in water. You will also move slower, however you will not drown.
 
 ## Goolien
 Impact: ◉◉◉
 
 _A gooey alien species that is often confused with their terrestrial slimy cousins._
 
+* **Absorbent**: Since your body passively absorbs water over time, being in water too long causes you to become slower.
+* **Condensing**: You're able to condense yourself to a quarter your usual size, but due to your high density (and smaller legs), you become slower.
+* **Flammable**: Your chemical composition makes you extremely flammable, and thus you take increased fire damage, and can only be put out with water or powder snow.
+* **Gooey Body**: Thanks to your body being an in-between of a solid and a liquid, it's more difficult to hurt you, and you take less damage from physical attacks and projectiles.
+* **Gooey Fists**: Because you are not entirely solid, you deal reduced damage.
+* **Gooey Skin**: Your gooey skin makes you green and somewhat translucent.
+* **gnitable**: You cannot wear iron armor or above in deserts, the nether, and other hot biomes or else risk being set on fire from the heat. You can protect yourself from this by enchanting your armor with Fire Protection I or better.
+* **No Lungs**: Having to survive in space, you've adapted to have no need to breathe air, and are able to go underwater without the fear of drowning.
+* **SPLAT!**: You take less velocity damage, but if the potential damage is severe enough, you become slow while you try to put yourself back together.
+* **Sticky Grip**: With your sticky skin, you're able to climb walls. However, this also makes it so you can't throw tridents as effectively, and can't use bows or crossbows whatsoever.
+* **Stomach Body**: You have increased saturation from meats thanks to how your body breaks down the matter and you don't get hunger or poison status effects. (You have no natural regeneration and you will always be at half hunger - eating food directly refills your hearts. You cannot eat when you are at full health).
+
 ## Half wither
 Impact: ◉◉◉
 
 _You are half-human, half-wither._
+
+* **Unstable Soul**: Because your body is half-wither, your Soul needs more energy to stay stable.
+* **Wither Immunity**: You are immune to the effects of other withers.
+* **Hungry**: You feed off the souls of those you kill.
+* **Wither Skull**: Shoot wither skulls at your target.
 
 ## Hellforged
 Impact: ◉◉◉
 
 _A being, created and forged within the darkest depths of hell. It thrives off of the heat and will freeze rapidly if not hot enough._
 
+* **Heat Powered**: You take damage if you aren’t on fire or submerged in lava.
+* **Impervious Eyes**: You can see in lava much better than a normal human.
+* **Cooled Off**: You swim slowly and take damage while in water.
+* **Strong Swim**: Because of your powerful metal arms, you can swim through lava with ease.
+* **Superheated**: Because of your incredibly hot body, your attacks instantly set enemies alight.
+
 ## Hero of the wild
 Impact: ◉◉
 
 _Your character has many abilities that will help with exploration._
+
+* **Energy Wave**: While holding your sword you're able to shot an energy attack
+* **Epona**: [Save Toolbar Activator] You can call your loyal horse to help on your travels
+* **Fast Metabolism**: You spend so much time running and climbing that your body exhausts faster
+* **Roll**: [Load Toolbar Activator] You can roll to escape enemies.
+* **Sink in water**: You never learnt how to swim
+* **The Sword of Evil's Bane**: You wield a magic sword forged to destroy evil
 
 ## Ice king
 Impact: ◉◉◉
 
 _Born in the frozen north, and a descendant of the ice queen, the ice king has grown accustomed to the cold._
 
+* **Blue Skin**: Since you're made of ice you're blue and slightly transparent!
+* **At Home**: When you are in any cold biome, you will get buffs.
+* **Freeze Immune**: You don't take any freezing damage.
+* **Frostbreath**: You Breathe ICE!
+* **Frostwalker**: You can toggle frost walker, with a 3 minute stamina, than a recharge time.
+* **BEST BUDDIES!**: You will heal when near a snow golem
+* **Heat Stroke**: Your body doesn't like warm environments making you loose hunger faster, and be more weak.
+* **Pyrophobia**: You take more damage from everything fire, including lava, lightning, explosions, and fireworks.
+* **Melting and Freezing**: When you respawn, your size gets randomly chosen between 3 and 1 blocks tall. Your max health is affected by your size as well.
+* **Frost Appearing**: Warp to the entity you are looking at. If you miss then it will warp you to the closest entity.
+
 ## Ice porcupine
 Impact: ◉◉◉
 
 _Once a natural creature, you were corrupted by demonic energies, giving you command over ice._
 
+* **Cold Adapted**: In cold biomes, you gain more speed, and in hot biomes you gain hunger.
+* **Cold Aura**: You cause water to freeze around you.
+* **Ice Body**: You take double fire damage.
+* **Ice Claws**: You deal slightly more damage when hitting with an empty hand.
+* **Ice Spikes**: You are covered by thorns.
+* **Icy Spawn**: You spawn in a Ice Spikes biome.
+* **Spike Throw**: Fire several spikes that slow enemies.
+* **Small Size**: You one block tall but can jump and run faster and higher than most.
+* **Vanish**: Using your demonic powers, you manipulate your ice to bend light around you, going invisible for a short time.
+
 ## Iceling
 Impact: ◉◉◉
 
 _An evolved form of the inchling, adapted to the cold._
+
+* **Blue Transparent Skin**: Since you're made of ice you're blue and transparent!
+* **Cold Buff**: you are buffed in cold biomes.
+* **At Home in the Tundra**: You Deal more damage over all in cold biomes.
+* **Snow Spawn**: Since you're made of ice you spawn in a snow biome
+* **Pyrophobia**: You take double fire damage.
+* **Frosty Touch**: You're able to collect snow and with your bare hands.
+* **Heat Exhaustion**: Your body doesn't like warm environments making you loose hunger faster when in warm biomes like Deserts or the Nether.
+* **Small**: Since you're small you are immune to multiple things
+* **Small Appetite**: As you are smaller, you do not need to eat as much.
+* **Ice Shooter**: you can shoot shards of ice
+* **Inchling-Sized**: You're inchling sized!
+* **Water Breath**: You get water breathing. 
 
 ## Ignisian
 Impact: ◉◉◉
