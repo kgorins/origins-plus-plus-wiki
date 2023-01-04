@@ -892,25 +892,65 @@ Impact: ◉◉◉
 
 _Archdemons exiled after the rebellion. Weakened by the retribution, the betrayed Ignisians were driven to the shadows. Day by day, their power grows, and soon, vengeance will be theirs._
 
+* **Archdemon**: As an archdemon, you are 25% larger and have longer arms.
+* **Brawler**: Your proficiency in ranged weapons is significantly compromised due to your massive and clumsy arms. Ranged damage halved.
+* **Crimson**: Your hellspawn origins gives you a red hue.
+* **Diabolic**: As a demonic being, both hunger and gravity are trivial to you.
+* **Extinguished**: The water extinguishes your flames, slowing you. You also cannot swim as you lack buoyancy.
+* **Hades Hopper**: Launch your self into the air. While you are in Wrath mode, a much shorter cooldown is used instead.
+* **Hades Trembler**: The earth will tremble, and your enemies shaken to their very core. Hold to launch yourself downwards, and demolish those fools who dare stand on your ground.
+* **Heavyweight**: Your armored body comes at the cost of speed.
+* **Wrath of the Ignisian**: Unleash the power that the gods once feared. Rampage through your enemies and gain a shorter cooldown for the 'Hades Hopper' ability. All attackers get hit by guaranteed thorns (can stack with normal thorns) and set on fire. Take 80% less damage, move 50% faster and resist knockback. Consumes 100 Zenith points when hit and 4 Zenith points every tick while active.
+* **Ignisian Zenith**: "You are the Zenith of all, none can stand in your way. Take damage to fill the 'Ignisian Zenith' bar. You regenerate health every 3 seconds of varying amplification depending on how full the bar is.
+* **Infernal**: As inhabitants of Hell, Hellfire is ineffective against you. In fact, you thrive in those scorching flames.
+* **Leaper**: A larger size warrants a larger jump. You can jump half a block higher with your powerful legs.
+* **Predatory**: "As a predatory demonic being, you can only consume the flesh of your prey.
+* **Punished**: The retribution has weakened you greatly. Explosions, magic and lightning bolts deal 3x damage to you.
+* **Sluggish Arms**: Your sluggish arms affect your break speed and attack speed by 25%
+
 ## Illusioner novice
 Impact: ◉◉◉
 
 _You were made but never used so now it's time to take revenge! (Evolve with 'Take Aim')_
+
+See _Illusioner master_
 
 ## Illusioner apprentice
 Impact: ◉◉◉
 
 _After mastering the art of the bow, you have become an Illusioner Apprentice have now unlocked new powers (Evolve with 'We Need to Go Deeper')_
 
+See _Illusioner master_
+
 ## Illusioner master
 Impact: ◉◉◉
 
 _You have mastered the art of illusion and have unlocked your true potential_
 
+* **All is Not as it Seems**: You can shoot a blindness arrow
+* **Better All is Not as it Seems**: Because you are so manipulative, you can play with peoples heads. You can shoot a beam giving the target nausea.
+* **Illusion**: Spawn [4] copies of yourself. To remove the illusion press [Save Toolbar Activator].
+* **Bow Apprentice**: Because you are trained with bows, they do more damage
+* **Bow Master**: Because you are now a master with bows, they do even more damage
+* **Friendly Foes**: Pillagers, who are usually foes, are now friendly to you (as you are one of them).
+* **Illusion**: Spawn [2] copies of yourself. To remove the illusion press [Save Toolbar Activator].
+* **Scary**: Iron golems will attack you on sight, and villagers will have significantly higher prices when traded with.
+* **Inexperienced**: You are inexperienced at using swords, so they do less damage
+* **Pillager Hate**: Because you are a pillager, villagers won't trade with you
+
 ## Insect
 Impact: ◉◉
 
 _The people who have evolved to live with the insects._
+
+* **Bite**: You gain life by hitting other entities.
+* **Flap**: When jumping in the air, you are launched slightly in the direction of your cursor. You also glide for a short time after.
+* **Weak**: You only have 6 hearts
+* **Bite Size**: You are the smaller than the average person due to evolution.
+* **Insect's Step**: Walk on water (and lava)
+* **Hydrophobic**: You are very small, water slows you down.
+* **Light Body**: Your small stature allows you to move quicker.
+* **Water Slowness**: You are very small, so water slows you down.
 
 ## Jellyfish
 Impact: ◉◉◉
