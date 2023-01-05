@@ -957,70 +957,202 @@ Impact: ◉◉◉
 
 _Jellyfish are creatures which use their stings to paralyze and poison their prey._
 
+* **Aquatic Agriculture**: You find dried kelp delicious and nutritious!
+* **Dry**: You'll dry out if you're to long out of water.
+* **Hold Breath**: While underwater to hold your breath for 5 minutes and walk on land. You'll still get dry after some time.
+* **Little Blob**: You are a tiny little blob.
+* **Ship Dweller**: You spawn in shipwrecks.
+* **Stinger**: Your touch paralyzes and poisons upon contact.
+* **Water Vision**: You can see perfectly underwater.
+
 ## Kelperet
 Impact: ◉◉◉
 
 _When a Heart of the Sea falls into the ocean, it can get tangled up into kelp, forming a small living being called a Kelperet._
+
+* **Dolphin Whisperer**: Dolphins will protect you if you are attacked and don't attack you if you hit them.
+* **Aquatic Equipment**: Your heart of the sea core let's you use a nautilus shell on your neck (head slot) to breathe on land.
+* **Miniature Conduit**: With your core being a heart of the sea, you permanently have the effects of a conduit when in water.
+* **Kelp Body**: With all the random items floating around in the waters, you got used to picking up random things near you (pickup range doubled). You also sink to the bottom of bodies of water due to not knowing how to actually swim (speed affected by depth strider).
+* **Riptide Dash**: You can perform an aquatic dash to better traverse the ocean.
+* **Mobile Conduit**: "[Save Toolbar Activator] You are able to grant nearby players (15 blocks) with 3 minutes of Conduit Power.
+* **Frills**: You can't wear helmets Due to your kelp frills and your heart of the sea core needing to be exposed on your head. You also need to have your bed near water to be able to sleep without going dry.
+* **Shell Equipping**: Use while holding a nautilus shell to put it in your helmet slot
+* **Small**: You are shorter then others.
+* **Conduit Channeling**: Your Heart of the sea core can tap into the energies of raw prismarine blocks, giving you strength and speed while standing on it.
+* **Thin**: ou are thinner than others, making you able to fit in tight spaces.
+* **Miniature Conduit**: [Load Toolbar Activator] With your core being a heart of the sea, you permanently have the effects of a conduit when in water.
 
 ## Kirin
 Impact: ◉◉◉
 
 _Like the feline and fox origins, but better._
 
+* **Cat Size**: You are cat sized; a block tall.
+* **Climb**: [Save Toolbar Activator] You are fast at will and can climb blocks.
+* **Dislike Of Water**: You hate the water, gaining Slowness and Weakness.
+* **Exhaustion**: You get hungry faster.
+* **Jump Boost**: You can launch yourself extremely far due to your strong legs and nature.
+* **Unrivaled Speed**: As a special ability, you gain high speed for a short time
+
 ## Land shark
 Impact: ◉◉
 
 _A shark that can survive both in water and on land._
+
+* **Fins**: You get slowness 2 while on land.
+* **Gill-Lungs**: You can breathe on land and in water.
+* **Greedy**: You get hungry 1.5x faster, and get the hunger effect on land.
+* **Lunge**: Lunge forward, acts like riptide.
+* **Razor Teeth**: You do +3 attack damage.
+* **Speedy Boi**: You get dolphins grace while submerged in water.
 
 ## Lepus
 Impact: ◉
 
 _An evolutionary branch of common rabbits, the Lepus love to explore and scavenge lost ruins for loot._
 
+* **But at what cost...?**: You have seven hearts of health, which just so happens to be your lucky number.
+* **Bunny Hop**: Your natural jump is two blocks high, and is unaffected when sprinting or sneaking.
+* **Energetic**: You're considerably faster when above 7 full hunger bars.
+* **Forager**: Breaking grass with hoes has a small chance to give carrots or potatoes.
+* **Golden Vision**: Eating Golden Carrots let you see in the dark for a little while!
+* **Leap**: A hefty leap that launches you up and forward.
+* **Lucky Foot**: Your odds of receiving better loot from chests and fishing are highly increased!
+* **Lucky Strike**: Melee hits have a 1/7 chance to deal 2x damage.
+* **Hide**: Make rabbit hide out of leather by [Right-Click] it with shears in your inventory.
+* **Vegetarian+**: You can't eat meat, but all other foods have increased saturation!
+
 ## Light mage
 Impact: ◉◉◉
 
 _A practitioner of healing magic, the light mage is invaluable when it comes to restoring HP or protecting your allies. However, they lack physical strength._
+
+* **Ally**: [Secondary + Shift] You can give saturation, regeneration and resistance to everyone within 6 blocks.
+* **Hidden Knowledge**: "[Primary + Shift] You can turn a book into a Mage Book with a book on your offhand.
+* **Clear**: [Primary + Shift] You can remove status effects from entities within 12 blocks.
+* **Cure**: You can cast a healing spell that deals damage to the undead (Range: 80 blocks)
+* **Weak**: You deal 50% less physical damage.
+* **Diminish**: You can cast a Debuff spell that also affects you. (Range: 80 blocks)
+* **I Need More HP!**: "You only have 6 hearts.
+* **Illuminate**: You can make all entities within 80 blocks glow and you give night vision to those within 8 blocks by using [Secondary + Shift].
+* **Unskilled**: You can't use ranged weapons.
+* **Mana Bar**: You have a mana bar - If you run out of mana you die.
 
 ## Lost draconian
 Impact: ◉◉◉
 
 _You was once a strong warrior for the draconian race that lived in the end, however during a war in the overworld you were killed. Many years later you awaken to find your dead yet still alive in the form of a lost draconian spirit._
 
+* **Unknown Fire**: Fire isn't something you had in the end, therefore you take double damage whilst on fire.
+* **Gift of Fligh**: You can launch yourself 20 blocks into the air.
+* **Dragon Attributes**: Due to you being an old draconian, you maintained the attributes you had when you was alive.
+* **Runt**: Despite being strong, you were a runt, smaller then most in your species. You're only a little taller then a block.
+* **What is This Heat?**: Your used to the cold of the end and your not used to the overworld, After staying out in the sun for too long,you get slowness I.
+* **Soft Landing**: You are used to falling down large gaps when injured with your wings, due to being a ghost now it doesn't hurt anymore.
+* **Teleportation**: The draconian race was the smaller cousins of the enderians, they both could teleport short distances
+* **Ghost Skin**: Your skin is translucent due to you being a spirit and slightly purple
+* **Warrior**: You deal extra damage with your sword due to your past being a warrior in the end.
+* **Weakened Health**: Due to your small nature, your health was weakened. you have two less hearts
+* **Weapon of the End**: As a member of the draconian army, you were blessed with your own sword and shield which were personalised for yourself
+
 ## Lunar path
 Impact: ◉◉◉
 
 _You are a powerful, undead being._
+
+* **Chains Of Death**: Shoot chains in the directions you are looking at. They will penetrate through all mobs in their path. All mobs affected will get the wither effect. If this chain comes in contact with the ground, it will cause an explosion.
+* **Cursed Being**: You take increased damage that ignores armor from weapons enchanted with Smite.
+* **Exiled**: Villagers prices are heightened and iron golems attack you on sight.
+* **From Beyond The Grave**: [Load Toolbar Activator] Your inherent ability to perform necromancy allows you to call forth an armored skeleton, and an armored zombie, from beyond the grave to fight along your side.
+* **Great Deal**: Drop-rates are increased!
+* **Night Boost**: At night-time you get buffs.
+* **No Daylight Water**: You take damage from water but only during the day.
+* **Pluck**: Because the iron is very conductive, it makes it so the sword is fueled with dark energy, making it deal as much damage as a netherite sword.
+* **Evoker Fangs**: You summon up to 3 evoker fangs on enemies around you, but only at night!
+* **Sunlight Terror**: Your skin is fragile when it comes to daylight, causing you to burn when under it. The longer you stay under it, the weaker and slower you get.
+* **Weakened By All**: You take triple damage from all mobs.
 
 ## Magmean
 Impact: ◉◉◉
 
 _Oozy, fiery, bouncy, what's not to love?_
 
+* **Internal Furnace**: Your body cannot digest any kind of food, only absorb lava.
+* **Bouncy**: You bounce on any block as if it was a Slime Block
+* **Fissile**: When hit, you have a small chance of dropping magma cream.
+* **External Fuel Source**: While unable to eat typical foods, by submerging yourself in lava you can refuel.
+* **Like Lava**: You move swiftly through lava.
+* **Flexible**: Kinetic damage is absorbed by your gelatinous form and does no harm to you.
+* **Spicy Hands**: Take a guess.
+
 ## Malfunction
 Impact: ◉◉◉
 
 _A bug in the system has given you stupidly useful trolling powers._
+
+* **Entity Teleportation**: [Save Toolbar Activator] You can teleport to or teleport to you the last entity you punched. Activate without shifting to teleport it to you, and with shifting to teleport to it.
+* **Float**: You can float (but it's too exhausting to fly for long).
+* **Aura**: You naturally have particles around you.
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Unstable Teleportation**: When you take damage from anything other than water, you'll randomly teleport.
 
 ## Magical Manipulator
 Impact: ◉◉◉
 
 _These folks specialize in magic that utilize all types of various elements, some of which you can find from the creatures and environment around you, while others you create yourself._
 
+* **Magic Wielder**: You can wield various types of magical attacks. Cycle through the different abilities by using [Secondary], and use [Sneak] too to cycle in the opposite direction. Use [Primary] to activate an ability. Every ability uses up a specific ammo type (see below) - put items in your offhand to be use as ammo.
+> OFFENSIVE ABILITIES: 
+- Anti-Gravity Arrow (Ammo: 1 Arrow)
+- Ghast Fireball (Ammo: 1 Fire Charge)
+- Spectral Energy Shot (Ammo: 1 Block Glowstone)
+- Ender-Dragon Fireball (Ammo: 3 Dragon’s Breath)
+
+> DEFENSIVE ABILITIES: 
+- Dirt Enclosure: (Ammo: 16 Dirt)
+- Energy Shield: (Ammo: 1 Golden Apple)
+- Resistance Buff: (Ammo: 1 Shield)
+- Golem Reinforcement: (Ammo: 1 Iron Block)
+
+> NOTE: Iron Golems you summon will be willing to turn on you if you hit them, like golems made by villagers.
+* **Agility Over Defense**: You prefer being able to move around rather than wearing heavy armour. You cannot wear chestplates or leggings of any kind. However, your base movement speed is higher than that of a normal player.
+* **Untrained Warrior**: You're not very good with physical weapons so you have permanent weakness 2 when using swords or axes
+
 ## Marshmallow
 Impact: ◉◉
 
 _Soft, fluffy and yummy!_
+
+* **Crispy**: Whenever you take fire damage you gain a crispiness level, lowering your health and giving you positive buffs. However, whenever you drink a honey bottle you lose a crispiness level
+* **Less Hearts**: you are tiny and have less health
+* **Flammable**: You take 1.5x fire damage
+* **Dense**: You cannot swim and sink in water
+* **Tiny**: You're a block tall
 
 ## Moth
 Impact: ◉◉
 
 _The light calls to you._
 
+* **Compound Vision**: Your big eyes have adapted to see within dark spaces.
+* **Easy Evasion**: Being a moth has its own perks, you are naturally lighter. You are immune to fall damage and velocity based damage.
+* **Expulsion**: You can launch yourself in the direction you are looking.
+* **Flammable Body**: Your body and wings are lightweight and cannot withstand scorching, you take double damage from fire sources.
+* **Light Affinity**: Due to your infatuation with light, you gain various buffs around different light sources.
+* **Overwhelming Light**: Your eyes are only used to darkness and low light, the sun is too much for you to comprehend. You feel overwhelmed and weakened in its presence.
+* **Short**: You are smaller than usual.
+
 ## Mothling
 Impact: ◉◉◉
 
 _A mothling is a winged moth-like creature that originally evolved in taiga biomes before adapting and spreading to the rest of the overworld._
+
+* **Lantern Light**: When nearby a lantern you get regeneration.
+* **Moth Diet**: You can only eat leather, and rabbit hide.
+* **Moth-Like Body**: You're smaller and have less hearts.
+* **Armor Weight**: Armor weighs you down, at most you can only wear a mix of iron and chainmail.
+* **Weakening Light**: When nearby a soul lantern you get mining fatigue.
 
 ## Mountain goat
 Impact: ◉
