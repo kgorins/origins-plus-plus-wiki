@@ -1202,20 +1202,53 @@ Impact: ◉◉
 
 _You are part-human, part-robot._
 
+* **Already Iron**: Your skin is already made out of iron, so you cannot wear any armour that is not better than iron armour
+* **Boiling**: You will catch fire due to overheating in very hot biomes
+* **Effect Immune**: You don't suffer from any negative status effects.
+* **Heavy**: Due to your iron skin, You are heavy, strong and slow
+* **Laser**: Shoot a harming speedy laser!
+* **No Regeneration**: You will not regenerate any health without the regeneration status effect.
+* **Overheat**: You overheat easily as a robot so you take extra fire and lava damage.
+* **Sentry Mode**: [Load Toolbar Activator] You are a sentry now, be careful you are dangerous
+* **Self Regeneration**: Activate self regeneration if you don't have enough health.
+* **Steel Skin**: Your steel skin gives you the feel of a robot and solid metal comes through your blood and becomes electricity.
+* **Strong Arms**: You can break natural stone much faster due to your Metal fists.
+* **More Health**: Due to your steel metal skin you have 5 more hearts of health.
+* **Unexhausted**: Because you are a robot you won't get exhausted or hungry at all.
+* **Water Breather**: You're a robot so you don't need any oxygen.
+
 ## Pixie
 Impact: ◉◉◉
 
 _You are a mischievous elf-like spirit._
+
+* **Bite Sized**: You are now four times smaller with five less hearts.
+* **Pixies Blessing**: Being a being of pure fondness gives you permanent luck and a warming aura.
+* **Boost**: Gain a small upwards boost.
 
 ## Ram
 Impact: ◉◉◉
 
 _You can ram stuff._
 
+* **Dashing Supremacy**: You can dash and get stronger and faster for a short time.
+* **Energy Jump**: You can charge up your energy and distribute it to jump really high.
+* **Fresh Air**: You miss the fresh air (so you can only sleep above Y = 90)
+* **Jump Boost**: You have a permanent Jump Boost & Slow Falling.
+* **No Food**: You can only eat flowers, leaves, grass, saplings, wheat, and hay bales for saturation.
+* **Ram**: If you attack someone while sprinting, you ram them giving you bonus knockback on that attack.
+
 ## Raptus
 Impact: ◉◉
 
 _These dinosaur-like creatures are descendants of velociraptors. Nowadays, they can be found hunting in packs or resting._
+
+* **Bite Force**: Your strong bite allows you to deal a little more damage.
+* **Strong Legs**: You jump higher when you are sprinting due to your strong legs.
+* **Light**: Since you are a fairly light creature, you can't wear armor that is too heavy, so you cannot wear anything above iron armor.
+* **Pounce**: You can jump forward into the direction you are looking at.
+* **Small**: As a descendant of the velociraptor, you are slightly smaller than the average human.
+* **Smaller Body**: Because your body is smaller, you are more fragile.
 
 ## Rat
 Impact: ◉◉
