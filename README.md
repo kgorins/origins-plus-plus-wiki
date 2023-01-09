@@ -1159,20 +1159,43 @@ Impact: ◉
 
 _Protective of their homes, they often ram unfamiliar people off cliffs where they live._
 
+* **High Jump**: You can activate a higher jump, but you'll lose hunger a lot faster. You also take extra fire damage.
+* **Ram**: You're able to lunge forward at a high speed. Attacking something while lunging at it will deal extra damage and knock it into the air.
+* **Thick Coat**: It's easier to live in colder biomes with your thick wool coat, making you faster. In hot biomes however, you overheat and become slower.
+* **Tough**: You have 3 extra hearts.
+
 ## Mouse
 Impact: ◉◉◉
 
 _A small scavenger._
+
+* **A Mouse's Lifespan**: You are very small, your frail body makes it so you have 5 hearts.
+* **Little Jump**: You are very small but your legs are strong enough to make you jump 1 block high!
+* **Mischievous**: Mouses are quick, you can travel greater distances in a short amount of time.
+* **Friendly Kinship**: Zombies, Skeletons, and Creepers are all your allies and will not attack you.
+* **Mice Sized**: You are only 1 block tall.
+* **Riding**: Mount any entity.
+* **Yoink**: When hit by an opponent, there's a chance to replace their currently held item with a wooden hoe.
 
 ## Ninetails
 Impact: ◉◉◉
 
 _Legend has it that Ninetails came into being when nine wizards possessing sacred powers merged into one._
 
+* **Launch**: Propel yourself in the direction you are looking.
+* **Pocket**: You can store up to 9 items in your mouth that you won't lose upon death.
+* **Willow Wisp**: [Save Toolbar Activator] You are able to shoot fireballs.
+
 ## Panoptican
 Impact: ◉◉◉
 
 _Strange airborne entities that observe, hoard, and do not interfere._
+
+* **Bystander**: To act is to interfere, and thus you deal massively reduced direct damage due to your reluctance.
+* **Flame Vulnerability**: Fire is bright, garish, and violent. An antithesis to you.
+* **Float**: You can float (but it's too exhausting to fly for long).
+* **Glow**: Toggle whether you glow or not
+* **Piercing Glare**: Aim at an entity to strike it with a sudden crippling terror, afflicting wither.
 
 ## Part robot
 Impact: ◉◉
