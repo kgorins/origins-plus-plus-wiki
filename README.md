@@ -1255,20 +1255,63 @@ Impact: ◉◉
 
 _You are a small critter of the night. You hunt and are filthy to others._
 
+* **Nimble Limbs**: You are a fast critter, being naturally faster than most and are able to attack faster than others.
+* **Nocturnal Eyes**: Your eyes are not used to the sunlight, if you are under daylight, you will go blind.
+* **Small Boi**: You are one block tall.
+* **Rat's Eyes**: Your eyes have adjusted well to the dark, allowing you see perfectly. But water causes your vision to diminish.
+* **Scavenger**: Mobs drop more loot.
+* **Slow Swimmer**: You are small and your paws aren't made to swim faster, you are slower in the water.
+* **Tail Whip**: You are able to give your attacks strong knockback.
+* **Toxicity Evolved**: Immune to poison effects caused by food.
+* **Vicious Bite**: You can use your inherent rat abilities to deliver a powerful bite.
+
 ## Ravager
 Impact: ◉◉
 
 _You are an illager experiment, something between their normal kind and the massive illager beasts known as ravagers._
+
+* **Well-Grounded**: You are 100% knockback resistant and naturally take slightly less damage.
+* **Ravager's Wrath**: You gain strength while holding an axe.
+* **Omen's Death**: Whenever a player kills you, they get the Bad Omen effect.
+* **Clumsy**: You cannot use shields, bows, and crossbows.
+* **Dash**: You are able to dash forward, giving you a chance to hit your enemies and sending them farther away.
+* **Exhausted**: You get tired faster than normal due to your size.
+* **Enemy of Villagers**: The golems can sense your kind, so they know what you're up to and don't take chances.
+* **Hard Hitting**: Your immense strength causes your hits to launch your foes.
+* **Ravager's Weight**: You can't wear any armor below diamond.
+* **Heavy Footed**: You trample farmland unless you are sneaking.
+* **Immense**: You are larger than the average person.
+* **Slowness**: Your species is heavy and bulky. You are permanently slowed.
+* **Relatives**: Other pillagers are passive towards you because you are a relative to them.
+* **Tough**: Your natural bulk gives you increased health and armor.
+* **Undead Fighters**: You can summon a vex to fight for you, but they will die after some time.
 
 ## Red panda
 Impact: ◉◉
 
 _The cutest origin there is! You 'prowl' the jungle as the most adorable predator._
 
+* **Bamboo Eater**: You are able to consume bamboo!
+* **Cute!**: You can freeze all mobs in 30 block radius because of how adorable you are.
+* **Strict Diet**: You can only eat bamboo.
+* **Fur**: Your fur makes you so fluffy! but it also means you take 50% more fire damage
+* **Jungle Native**: Your homeland is the jungle, therefore you spawn in one.
+* **Lazy**: You move slower during the day because of your laziness.
+* **Nocturnal**: You spend most of your waking hours at night, allowing you to see better in the dark.
+* **Sharp Claws**: Your claws and agility allow you to scale and climb blocks.
+
 ## Reign farmer
 Impact: ◉
 
 _You have been farming for decades, to the point that you've mastered every aspect of it._
+
+* **Lightly Armored**: Your need for agile movements while working with crops, is harder when wearing heavy armor. You prefer only to use leather armor.
+* **Nimble**: You are fragile from working in the fields, so you have less health than humans.
+* **Nourish**: You direct the earth's nutrients toward crops. Growing them in a matter of seconds.
+* **Pacifist**: You prefer escaping to fighting. Your attacks are weaker and there is a chance enemy attacks will leave you stunned.
+* **Photosynthesis**: This allows plants to get nutrients from the sun.
+* **Strength Of Crops**: Close proximity to farmland makes you feel at home, and makes you gain regeneration.
+* **The Gift Of Life**: You can summon a random passive or neutral mob.
 
 ## Rift mage
 Impact: ◉◉
