@@ -1318,30 +1318,167 @@ Impact: ◉◉
 
 _Rift Mages are known as 'The Immortals' in legends. Their control over space and time reigns supreme, able to defy even the Grim Reaper himself._
 
+* **Aurophilia**: You love shinies so much, you can mine gold/diamond without a pickaxe. You will also mine them way faster than usual if you aren't wielding anything. Takes 3 times to break diamond ore, 1 time to break gold ore.
+* **Remembrance**: Walking on purpur blocks will increase your armor as memories of your home come back.
+* **Traveler's Curse**: One can only pass through the fabric of space so many times before it takes a toll on their body. You have far less hearts than the average human.
+* **Hades' Gate**: The Nether rejects your essence, burning it the moment you enter. If you have at least 1 armor piece with Fire Protection II, this effect will recede.**: Warp the essence of nearby ender pearls, making their wielder instantly teleport to them.
+* **Portality**: You are able to rip space and time apart to create a rift. Entering it will let you fly and phase through blocks around the rift. You can only own one rift at a time.
+* **Charon's Boat**: Upon receiving a fatal blow, prevent it and return to your active rift.
+* **Picky**: You can only eat ender pearls, as a half-enderman being.
+* **Purpur Recipe**: With an amethyst shard and stone bricks, you can create a purpur block.
+* **Dissolving Skin**: Water breaks down your skin, making you get hungry very fast. When there is no hunger to deplete, health will be taken instead.
+
 ## Ryu
 Impact: ◉◉◉
 
 _You are a legendary creature born from the heavens._
+
+* **All Knowing**: Because you are a dragon, you have better vision. You can see mobs within a 25-block radius for a short time
+* **Better Odds**: You're used to most harming potions, you have a 50% chance to not take damage from poison, harming, or weakness potions.
+* **Big Body**: You're 2.5 blocks tall.
+* **Dark Color**: Your scales are tinted gray, making you appear with a slight gray color.
+* **Friendly Eyes**: Endermen are used to you, looking at an enderman will not anger them.
+* **Healing Potions?**: You're only used to potions that cause damage; healing potions won't affect you.
+* **Heavy Scales**: You struggle to stay afloat when your health or hunger is too low, or when you're wearing heavy armor.
+* **Lift Off**: You're able to launch yourself into the air.
+* **Natural Protection**: Your scales provide natural protection, giving you 2 more hearts.
+* **So Much Weight**: Because you're heavier, you take more fall damage.
+* **Sparkly**: Your scales reflect in the light.
+* **Winged Boost**: You can propel yourself forward with your wings to get high speed.
 
 ## Sand walker
 Impact: ◉◉
 
 _The sand walker is a creature of the desert and sand, forever walking amongst the dunes._
 
+* **Cold Hatred**: Your innate land is the hot desert so you are at a disadvantage in the cold.
+* **Flesh Eater**: There isn't much to eat in the desert so you have grown to like rotten flesh and get more nutrients from it but steak doesn't really taste as good to you.
+* **Heat Resistance**: Your time in the hot desert has made you immune to fire.
+* **No Hunger**: From you times in the desert and living with husks, you have gained immunity to hunger.
+* **Made of Sand**: Your skin blends in with the sand.
+* **Sand Shifting**: You can shift through the sand like air.
+
 ## Shadow
 Impact: ◉◉◉
 
 _You are one with the shadows._
+
+* **Shadow Form**: You can transform yourself into dark energy, but it's to unstable to stay in that form for long. (You can also go through blocks)
+* **Shadow Storage**: [Save Toolbar Activator] You can warp the shadows into a storage area only you can access, and is kept on death.
+* **Shadow Snack**: Because eating food isn't an option, and you're a shadow, you are able to regain your hunger when in dark areas. This fills half of your hunger bar and gives regeneration for a short period of time.
+* **Shadow**: In low light conditions, you become invisible, but moonlight and sunlight expose you.
+* **No Food**: You're a shadow, so you can't eat food.
+* **The Weakness of the Sun**: The Sun produces a lot of light, meaning you are weak to it. You gain slowness and weakness when exposed to the harsh rays of the Sun.
+* **Weak**: Your health is reduced to 7 hearts.
 
 ## Shadow crawler
 Impact: ◉◉◉
 
 _You were once human until you were trapped in an empty, void-like dimension eventually adapting to it over hundreds of years._
 
+* **Blinding Lights**: When exposed to light, you temporarily lose your sight. You can recover by hiding in dark spaces!
+* **Shadow Boost**: When in dark spaces you receive a boost to most stats and can see more clearly.
+* **Light Weakness**: When it's day you receive debuffs as you cannot merge with the shadows around you.
+* **No Exhaustion.**: You do not need to eat food, as after hundreds of years your body has become adept at conserving energy. You regenerate infinitely, but slower.
+* **Shadowy Form**: You are darker and more transparent than most entities.
+* **Shadow Warp**: You become a shadow, allowing you to instantly move 15 blocks in front of you.
+
 ## Shifter
 Impact: ◉◉◉
 
 _You were just a normal human but you stole the powers from the original 9 origins, now you can switch between weaker forms of the original 9._
+
+**Arachnid**:
+
+* **Carnivore**: You can only eat meat.
+* **Climbing**: You are able to climb up any kind of wall, not just ladders.
+* **Master of Webs**: If you hit an enemy they will get stuck in a cobweb.
+* **Spider-Like**: You are slightly smaller than normal, you are dark grey, have 6 hearts and take more damage from bane of arthropod.
+---
+
+**Avian**:
+
+* **Chicken-Like**: You are slightly smaller than normal and only have 7 hearts.
+* **Fresh Air**: While under Y=86 you deal 3 less damage
+* **Featherweight**: You have the slow falling effect permanently.
+* **Tailwind**: You are slightly faster than normal.
+* **Vegetarian**: You can’t digest any meat.
+---
+**Blazeborn**:
+
+* **Blaze-Like**: You are Orange and have 7 hearts.
+* **Burning Wrath**: You deal 1.5 more damage.
+* **Fire Immunity**: You take no fire damage for 10 seconds, then you begin to take 25% less fire damage.
+* **Nether Inhabitant**: You deal 3 less damage unless in the nether.
+* **Hydrophobia**: You take damage while in contact with water.
+---
+**Elytrian**:
+
+* **Gift of the Winds**: You can boost about 10 blocks into the air.
+* **Elytra-Like**: You have 7 hearts and are a light grey colour.
+* **Brittle Bones**: You take a lot more damage from falling and flying into blocks.
+* **Aerial Combatant**: You deal 50% more damage while flying but you deal 50% less while not flying.
+* **Fragile**: Your fragile body makes you take 50% more damage.
+* **Claustrophobia**: Being somewhere with a low ceiling for too long will weaken you and make you slower.
+* **Winged**: You have elytra wings without needing to equip any.
+---
+**Enderian**:
+
+* **Enderman-Like**: You skin is darker than most, you have 8 hearts, you are slightly taller than normal and are slightly thinner than normal.
+* **Home**: While not in the end you deal 2 less damage.
+* **Teleportation**: You can throw an ender pearl.
+* **Slender Body**: You can reach blocks and entities slightly further away.
+* **Hydrophobia**: You take damage while in contact with water.
+---
+**Feline**:
+
+* **Cat Like**: You are small enough to sneak under a 1 block space and you only have 6 hearts.
+* **Strong Ankles**: You are able to jump higher by jumping while sprinting.
+* **Acrobatics**: You never take fall damage, no matter from which height you fall.
+* **Weak Arms**: You don’t deal any damage and you mine a lot slower unless you have strength.
+* **Nocturnal**: You can slightly see in the dark when not in water.
+---
+**Merling**:
+
+* **Fish-Like**: You are slightly smaller than normal, you’re blue, have 6 hearts and take more damage from impaling.
+* **Gills**: You can breathe underwater, but not on land.
+* **Aqua Affinity**: You can mine blocks underwater but on land you mine blocks slower.
+* **Wet Eyes**: You can see slightly better underwater.
+* **Fins**: Your swim speed is slightly increased.
+* **Weak Lungs**: You lose air bubbles 2x faster.
+---
+ **Phantom**:
+
+* **Photoallergic**: You burn in sun light unless phasing.
+* **Fast Metabolism**: You need to eat a lot more while phasing.
+* **Invisibility**: While phasing you are invisible.
+* **Phase Miner**: You mine slower while phasing.
+* **Phasin**: You can phase though walls for 10 seconds before needing to recharge it.
+* **Phantom-Like**: You are translucent and have 6 hearts.
+---
+ **Shulk**: 
+ 
+* **Sturdy Skin**: Even without wearing armor, your skin provides 2 natural armor bars.
+* **Large Appetite**: You exhaust much quicker than others.
+* **Strong Arms**: You deal 1 more damage.
+* **Unwieldy**: You can’t use shields, bows or crossbows.
+* **Shulker Like**: You are pink, have 7 hearts, are 1 block tall and are slightly wider.
+---
+
+ **No Elytra**: You can not equip an elytra, you already have a whole form for that!
+  
+  **Shift**: Switch between origins by holding an origin's special item and press [Secondary]
+
+* **Arachnid**: Special Item: Spider Eye or Cobweb
+* **Avian**: Special Item: Feather
+* **Blazeborn**: Special Item: Blaze Powder
+* **Elytrian**: Special Item: Elytra
+* **Enderian**: Special Item: Ender Pearl
+* **Feline**: Special Item: String or Orange Wool
+* **Merling**: Special Item: Raw or Cooked Cod
+* **Phantom**: Special Item: Phantom Membrane
+* **Shulk**: Special Item: Shulker Shell
+
 
 ## Shroomling
 Impact: ◉◉◉
