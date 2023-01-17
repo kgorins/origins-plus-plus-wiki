@@ -1485,6 +1485,8 @@ Impact: ◉◉◉
 
 _After killing the ender dragon, you've grown to your final form: a small mushroom. Your spore count has increased dramatically, making all spore-related abilities stronger._
 
+_See Sporeling_
+
 ## Snake
 Impact: ◉◉
 
