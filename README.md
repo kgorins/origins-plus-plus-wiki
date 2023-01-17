@@ -1612,9 +1612,9 @@ _You are a powerful technomancer. Armed with the power and knowledge of the godf
 * **Blockade**: Lime Conduit: You trap any entity in a temporary jail cell. Mana Cost: 10000. [Primary]
 * **Grappling Hook**: Black Conduit: Shoot a grappling hook that allows you to swing and move around quicker. Mana Cost: 1000 Per Use. [Right Click]
 * **Healing Aura**: Blue Conduit: You are able to generate a quick burst of healing nanites which, upon release, will shoot out potent healing chemicals that will heal anyone within its radius, including yourself. Mana Cost: 10000. [Primary]
-* **Laser Beam**: Red Conduit: You release a powerful beam of energy capable to cutting through blocks and mobs. §6Mana Cost: 100 Per Use. [Right Click] (Hold)
-* **Nanite Shield**: Light Blue Conduit: Surround yourself in nanites, preventing all health loss, but are unable to move. §6Mana Cost: 1000 Per Second Used. [Secondary]
-* **Items**: As a Technomancer, your powers are bound to the \"Staff of Aldo\ a powerful staff first designed by the Godfather of Technomancy, Aldo Aarif. Use the staff in your offhand and hold the Conduits in your mainhand to cast spells.
+* **Laser Beam**: Red Conduit: You release a powerful beam of energy capable to cutting through blocks and mobs. Mana Cost: 100 Per Use. [Right Click] (Hold)
+* **Nanite Shield**: Light Blue Conduit: Surround yourself in nanites, preventing all health loss, but are unable to move. Mana Cost: 1000 Per Second Used. [Secondary]
+* **Items**: As a Technomancer, your powers are bound to the Staff of Aldo, a powerful staff first designed by the Godfather of Technomancy, Aldo Aarif. Use the staff in your offhand and hold the Conduits in your mainhand to cast spells.
 * **Technomancer's Curse**: Learning Technomancy is a craft of patience and sacrifice. No longer in your prime, your body worn by time, you move slower and have fewer hearts than most.
 * **Tech Mana**: As a Technomancer, your power to perform spells comes from natural energy sources. \"Tech Mana\" as it is commonly known, is your natural source used to cast spells but these are often bounded to more technologically advance Conduits. You gain Tech Mana naturally, as the world often brings little bits of electrical energy which you can use and convert into Mana, but this process is slow. Standing on top of Redstone-type blocks will absorb its energy and give you mana quicker.
 
@@ -1664,80 +1664,258 @@ Impact: ◉◉
 
 _A human trapped in the void for what felt like an eternity, who has finally returned, but only partially_
 
+* **Armour Restriction**: You cannot use armour with protection values above gold.
+* **Channel Divinity**: When shifted you regain divinity, used to use your abilities and enhanced attacks. Note: You cannot attack during this time
+* **Curse of Tangibility**: When under the effect of slowness, you get weakness 100
+* **Displace**: You can become invisible for a short while.
+* **Intangible**: Automatically dodges the first attack you receive (with a cooldown).
+* **Frail**: You only have 8 hearts
+* **Magic-Less**: You are unable to use potions
+* **No Shields**: You can't use shields or ranged weapons.
+* **No Food**: You cannot eat food
+* **Viscous Strikes**: Your attacks deal extra damage.
+* **Magic Weakness**: You take extra magic damage,
+* **Purify**: Your attacks link your target to the void, cleansing them of impurities
+* **Nimble**: You move a little faster than most
+
 ## Voidborne
 Impact: ◉◉◉
 
 _You are a descendant of the void. You have received the gift of flight, and the ability to escape the void. But don't stray too far from home._
+
+* **Brittle Bones**: You take more damage from kinetic base sources.
+* **Dive Attack**: You deal more damage when diving towards a target.
+* **Field Forces**: Due to the nature of the Void Shield, you no longer feel a need to use a regular shield.
+* **Large Appetite**: Because your body now requires more energy, causing you to eat more often.
+* **Low Health**: As a Voidborne, your adaptability in the skies have weakened you to the dangers below, you have 8 hearts.
+* **Voidborne Form**: Your body has grown stronger, causing you to be able to step into the light but becoming more transparent the further you stray from the Void.
+* **Void Child**: Being part of the void, your body weakens the further away you are from it.
+* **Void Shield**: You can call upon the Void to shield you in your time of need.
+* **Winged Boost**: You've learnt to dash in direction you're looking with the wings The Void has gifted you.
+* **Winged Limits**: You struggle to stay afloat when your health or hunger is too low, or when you're wearing heavy armor. Flying boosts will exhaust you more and propel you less when wearing heavy armor.
 
 ## Volcanic dragon
 Impact: ◉◉◉
 
 _You are a dragon born out of volcanic energy._
 
+* **Fast Metabolism**: Hunger goes down a bit quicker.
+* **Hot Blooded**: Immune to Wither & Poison Effects.
+* **Lava Breath**: You shoot a lava fireball.
+* **Scale Armor**: Your scales are hard and tough to cut through, giving you 2 natural armor bars.
+* **Natural Strength**: You are a lot stronger by nature.
+* **Volcanic Spawn**: Your natural home is near lava. So, you spawn in the Nether.
+* **Freezing Internals**: You gain slowness and weakness in cold biomes.
+* **Two Extra Hearts**: Because of your lineage, you get 2 more hearts.
+* **Volcanic Dash**: You are able to boost with the flames that surround you.
+
 ## Wailing one
 Impact: ◉◉◉
 
 _A harbinger of death, villagers fear them, pillagers respect them, Wailing Ones are banshees whose presence and eerie cries always bring death, and are a reminder that all things must eventually end._
+
+* **As Soft As A Wisp**: Sneak while falling to slow fall.
+* **Feast On Life**: You gain life by damaging or killing others.
+* **Float**: You can float (but it's too exhausting to fly for long).
+* **Ghost!**: Villagers won't trade with you and run from you, golems will attack on sight.
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Wicked Spirit**: Smite works against you, iron and gold items deal extra damage to you, and you cannot wear iron or gold armor.
+* **Spiteful Resistance**: Any mobs/players that hit you with melee attacks will receive slowness and weakness.
+* **Swamp Spawn**: You spawn in a swamp.
+* **Dark Vision**: You can see in the dark.
+* **Touch Of Death**: Applies wither to anyone you hit.
+* **Wail**: Sing your Death Knell to damage and wither all who stand in front of you!
 
 ## Wanderer
 Impact: ◉
 
 _The sense of adventure and the excitement of new things guide you. You became a wanderer, learning many useful skills on the way._
 
+* **Travel Pouch**: A wanderer always needs a trusty pouch with them.
+* **Merchants Body**: Due to your body being used to travel, you became a little weaker to fire.
+* **Healing Warmth**: When within two blocks of a light source, you start to heal. Soul variants satiate you instead.
+* **Wanderer's Gear**: Wearing leather armor gives you additional armor, speed, and an attack damage buff.
+* **Cowardice**: During the night you become faster but also weaker. Weakness can be combated by holding a shield at the expense of losing your speed boost.
+* **Born Trader**: You are merchant, prices go down when you're around.
+
 ## Wandering spirit
 Impact: ◉◉◉
 
 _You are a spirit, lost in the overworld for reasons unknown to you. Your thoughts and memories, the only thing that linger from your past life._
+
+* **Damage Glitch**: When critical hitting something, you have 25% chance to accidentally deal 3 hearts of damage to yourself instead.
+* **Fire Weakness**: Fire exorcises you, so you take extra fire damage.
+* **Need Glasses**: When in dark areas your vision sucks, so you get blindness (unless you have night vision).
+* **Lightning Charge**: You can summon a great storm that will strike lightning around you. (Uses hunger)
+* **Lightning Invulnerability**: You cannot be affected by lightning.
+* **Electrokinesis**: You are able to summon a lightning strike where you're looking. (Uses hunger).
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Quick Hands and Feet**: Due to your nature, you have learned to move faster than most. This allows you to mine and move faster than others.
+* **Shaking**: You are always shaking. The thought of the approaching night always on your mind.
+* **Morphing**: You can switch between Small, Normal and Large size.
+* **The Darkness**: At night you are afraid of the dark, so you get slowness and weakness. (Unless you have night vision)
 
 ## War god
 Impact: ◉◉
 
 _Inspired by the war god in Passerine._
 
+* **Axe God**: You deal more damage with axes.
+* **Born In Fire**: You are connected to fire, so you have permanent Fire Resistance.
+* **Hungry**: It is very hunger-consuming to fight so much.
+* **Moonlight Darkness**: Sun = fire and fire = good, so you have weakness during night time when there is no sun.
+* **Not a Ranged Specialist**: You are more skilled using swords and axes. Bows deal more damage to you.
+* **Philza Reference**: Elytrians deals double damage when attacking you.
+* **Strong**: You have a lot of experience in wars, sou you have extra health.
+* **Swordsman**: Swords feel natural, you are very skilled with bladed weaponry this deal more damage with it. But you are inexperienced with any ranged weapons so you don't use them.
+* **Warrior**: Adrenaline rushes through your veins when the thought of a good battle comes to mind. (Get Strength)
+
 ## Warden
 Impact: ◉◉◉
 
 _Your warden character has certain traits deriving from your ancestry._
+
+* **Almost Blind**: You cannot see very well as you have evolved to live in total darkness
+* **Echolocation**: You can shriek to detect nearby mobs and cause them to glow
+* **Big and Strong**: You have extra hearts and permanent strength
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
+* **Warden's Body**: You are shaped like a warden: tall and wide.
 
 ## Warforged
 Impact: ◉◉◉
 
 _Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war._
 
+* **Robotic Body**: You're immune to poison
+* **Rust**: You start to rust when wet, causing you to get weakness and slowness in water.
+* **Night Vision**: You have night vision, allowing you to see in the dark
+* **Weaponized Body**: Your body is a weapon, allowing you to do more damage to enemies
+
 ## Warper
 Impact: ◉◉◉
 
 _Teleport to your heart's content._
+
+* **Personalized Ender Chest**: [Save Toolbar Activator] You can access a custom ender chest to store things which don't drop on death.
+* **Teleport Clutch**: Press the sneak key to stop your fall. Make sure to time it correctly.
+* **Reliable Food Source**: Due to your time spent in the End, you can eat end stone.
+* **Passive Endermen**: Endermen will not become aggressive towards you, unless you attack them.
+* **Portality**: [Primary/Secondary] You can summon a portal. When you have two portals, you can teleport between them by standing close to them. (Works across dimensions.)
+* **Unstable**: When you take damage from anything other than water, you'll randomly teleport.
+* **End Home**: You come from and belong to the end.
+* **Teleport**: [Load Toolbar Activator] Teleport wherever you're looking (within 64 blocks).
+* **Weak**: Your health is reduced to 5 hearts.
 
 ## Witch of ink
 Impact: ◉◉
 
 _You saw 'The Canvas': a legendary artifact that has enlightened you. Your only purpose is to create a world made entirely of paint and simple colors._
 
+* **Art Affinity**: Being near paintings satisfies your inner artist, replenishing your hunger slowly.
+* **Artistry**: You learned a special recipe to make the constant painting easier on your resources. You can craft wool with just 2 strings.
+* **Overflowing Power**: Colored dusts float around you.
+* **Eraser**: Erase the color of the entity you're looking at. [Sneak] to self-cast.
+* **Guertena's Curse**: You take quadruple damage from burning.
+* **Frail**: Due to neglecting your physical health, you have only 8 hearts.
+* **Magic Brush**: With the respective dye in hand, click to fire a ray of red, blue or green energy that colors entities around the impact.
+> Blue -> Blue or Red -> Red pulls the target entity to the attacker.
+>
+> Blue -> Red or Red -> Blue applies extra knockback to the attack.
+>
+> Green + Red creates Yellow, which causes the entity to glow brightly and be seen through walls.
+>
+> Blue -> Green heals the target entity and creates a water block at its feet for a moment.
+>
+> Green -> Blue steals health from the target entity to restore health for the attacker.
+
+* **Subficiphilia**: Food restores no hunger for you, as you're beyond it. Only paintings satisfy you.
+* **Show Off**: You can't stand your colorful nature being suppressed, so you're immune to Invisibility.
+* **Painted Armor**: One of your creations is a set of armor painted with a grey color, which grants you innate armor. However, other armor is barely effective.
+* **Fiction Realization**: Fire a ray that reanimates the first painting it hits, turning the entities in them alive. They will be passive to you. (Doesn't work for all paintings)
+* **Coven of Witches**: Witches are passive to you.
+
 ## Withered fox
 Impact: ◉◉◉
 
 _These strange creatures have been around for centuries and are facing extinctions by hunters for their hide._
+
+* **Favorite Food**: As having a fox also being your ancestor you have grown a strong liking to sweet berries so they fill you more.
+* **Undead Fear**: As being related to the wither undead mobs are afraid of you and the Wither likes you so will not attack you.
+* **Float**: You float instead of jumping (but it's too exhausting to fly for long).
+* **Hard Skin**: Due to your hard skin you have natural protection
+* **Corrupt Heart**: Your body has withered your hearts away.
+* **Home**: Your natural spawn is the nether.
+* **Immune System**: Due to living in the nether you have grown an immunity to poison, hunger, wither, nausea, and weakness.
+* **Thief**: You like to steal things from people so to hide those things you need to put them in your mouth.
+* **Wither's Blessing**: Your wither ancestor has pasted on the ability to be more resistant to attacks and make you immune to projectiles when on half health.
+* **Quick Feet**: Due to constantly running from hunters you have devolved natural speed.
+* **Withered Skulls**: Due to one of your ancestors being a wither they have passed down their ability to shoot wither skulls to you.
+* **Small**: One of your ancestors is a fox so you are a block and a half tall.
+* **Sturdy Skin**: As you skin is very hard you are immune to sweet berries and cacti.
+* **Undead**: You count as an undead mob
+* **Wither Hands**: Your claws are filled with a dangerous disease so melee damage infects enemies with your sickly disease.
 
 ## Withered skeletian
 Impact: ◉◉◉
 
 _You are a wither skeleton, your body is strong and your bones rattle like those of your siblings in the nether._
 
+* **Wither Immunity**: You are immune to wither.
+* **Nether Inhabitant**: You spawn in the Nether, and like your brothers and sisters, you spawn in a fortress with them.
+* **Nether Kinship**: Blazes, Wither Skeletons, and Skeletons are all your allies and will not attack you.
+* **Sharper Stone**: Stone Swords do similar damage to diamond axes.
+* **Undead Body**: You take increased damage that ignores armor from weapons enchanted with Smite.
+* **Unnatural Height**: You are naturally three blocks tall.
+* **Withering Presence**: Applies the wither effect on your opponent for a short period of time after hitting them.
+
 ## Wizard
 Impact: ◉◉◉
 
 _You used to be a normal villager but you grew wise and old and decided to use your magic for good._
+
+* **Fireball Spell**: With your magic you summon a fireball.
+* **Witch's Broom**: When holding a stick you get slow falling
+* **Flight... Well kind of.**: When holding a feather you gain levitation
+* **Healthy?**: The extra magic in your body goes to your health.
+* **Magic Bounce**: You are immune to poison, wither, and weakness
+* **Lightning Spell**: With a stick in your hand you summon lightning on whoever you hit.
+* **Magical Body**: Due to your body constantly expelling magic you have permanent regeneration.
+* **Melee what's that?**: Your melee attacks are weaker.
+* **Old**: You are slower due to being old and your frail skin takes more damage from explosions and shields are heavy hunks of metal so you can't hold them up right.
+* **Respect**: Illagers Respect you because of your wise knowledge and will not attack you.
+* **Second Chance**: When you're supposed to die you have a totem-like effect.
+* **Sensitive Skin**: Due to your Sensitive skin you can only wear armor up to iron.
+* **Skull Bomb Spell**: [Save Toolbar Activator] You summon a skull bomb
+* **Ghost Summoner**: Vexes love you cause you are a kind wizard and will protect you.
+* **Relatives**: Villagers recognize you as a wise wizard thus lowering their trades.
+* **Why use them?**: You can't use totems cause why should you? You cheat death by yourself!
 
 ## Wyverian
 Impact: ◉◉◉
 
 _A descendant from the powerful dragon called the wyvern._
 
+* **Claws**: You have large powerful claws, allowing you to do more damage to enemies
+* **Nocturnal**: You have night vision, allowing you to see in the dark
+* **Hotblooded**: You're immune to poison
+* **Venomous**: You can breath out large clouds of poison
+* **Weak Body**: Because you are a descendant of wyverns, you have a weaker body and thus cannot wear armour with protection higher than chainmail.
+* **Height**: Similar to most other dragons, you are taller than most
+* **Heavy Wings**: Your wings get heavier when they're wet, causing you to get weakness and slowness in water.
+* **Gift of Flight**: You can use your large wings to flap!
+
 ## Zero aizawa
 Impact: ◉◉
 
 _An aizawa is a powerful being, able to travel long distances and loved by everyone._
+
+* **Acrobatics**: You have speed and you also fall to the ground slower.
+* **Heliophobia**: When in harsh lighting conditions, you get Blindness and Slowness.
+* **Long Arms**: Your reach is increased.
+* **Very Nice**: Because you're so nice to everyone; creepers, spiders, skeletons, and zombies won't attack you unless provoked. You also get good discounts for villager trades.
+* **Super Sane**: You go into a very resistant state that makes you invulnerable to any type of damage and you deal 2x damage, but after you use this ability you get Slowness, Weakness, and Hunger.
+* **Tall**: Your used to being under taller roofs so when you are right under a block you get Weakness and Hunger.
+* **Weak Stature**: Because your arms are weak you can't really wear netherite properly so you get Slowness II with netherite armor on.
 
 -----
 ## Credits
