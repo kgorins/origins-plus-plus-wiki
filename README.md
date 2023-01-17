@@ -1490,60 +1490,174 @@ Impact: ◉◉
 
 _You are #1 snek now._
 
+* **Snek Bite**: You are a poisonous snek.
+* **Snek Health**: You have the health of a snek.
+* **Intimidation!**: You can intimidate your enemies by hissing.
+* **Snekling Lunge**: [Sneak + Jump] Sneks can lunge onto prey
+
 ## Soul seer
 Impact: ◉◉◉
 
 _You are a mostly soul-like being, though you have many skills and flaws relying on a soul-well to stay in top shape._
+
+* **Combustive Eating**: You are unable to eat the physical food like those with flesh.
+* **Empty Well**: When your Soul Well drops below 25% you will be exhausted and require food quicker then normal. If you drop to 0% you will begin to die due to being a empty husk.
+* **Energized Vigor**: When your Soul Well is above 25% energy, you will gain buffs. At 25% you gain Night Vision and Speed. At 50% you gain Haste. At 100% you gain Strength.
+* **Spirit Eyes**: Your eyes are that of a soul and not designed for those of flesh. You struggle to see the world the same as others.
+* **Lightweight**: Due to being half physical, your weight is much lesser compared to living, this means gravity and laws of the world don't effect you as much as those with flesh.
+* **Soul-Well**: As a half Soul being, you need to fuel your soul by attacking entities.
+* **Soul Sight**: As a Soul-Seer, you can see the souls of entities through all objects.
+* **Unstable Vigor**: Due to being a half Soul being, you are unstable by nature. When injured or sprinting you will use up your Soul-Well.
+* **Soul Steal**: Thanks to your soul-like body, you fill Food and fuel your Soul-Well with strikes.
+* **Spirit Walk**: Due to your soul-like body, you can instantly travel through the world towards any entity you can see.
+* **Weak Form**: As a soul-like being, you are weak to the physical world. Your health is half of what those with flesh have.
 
 ## Spectre
 Impact: ◉◉◉
 
 _Archangels corrupted by the devil during the war. The curse stripped off their wings and made them ravenous for flesh. They now roam aimlessly, hoping to regain their former glory._
 
+* **Accursed**: You are but a remnant of your former self so you only have 5 hearts.
+* **Archangel**: As a former archangel, you are slightly larger and have longer arms.
+* **Demonic**: After millennia of fighting and the corruption of The Devil, you adapted to the flames and developed Hellfire immunity.
+* **Ethereal**: As a former heavenly being, both hunger and gravity are trivial to you.
+* **Fallen**: Objects too solid are hard to dematerialize. Iron, diamond and netherite armor cannot be worn and shields are unusable. The curse erodes any wings so elytras are also useless.
+* **Flesh Craver**: You abhor any food that touches no blood. Only meat can be consumed. Human flesh also satiates your hunger more, even if it is rotten.
+* **Ravenous**: Your hunger grows. You are thrice as hungry.
+* **Soul Devourer**: This was once a holy ability used to smite demons, but the curse has corrupted it into a sinister form. Devour the souls of your enemies on hit.
+* **Soul Sacrifice**: consume 1.5 hearts and fill the bar by 200 Spectre points if bar is not full.
+* **Spectre Infinite**: As one who dwells in both light and dark, unleash power that rivals gods. If the 'Spectre Infinite' bar is full, gain Speed, Resistance, and Haste.
+* **Terror of the Spectre**: Initial: Purify all effects and lunge forwards. While active and bar not empty: You are invisible and invincible, but you are unable to hit mobs. Can pass through mobs and blocks except bedrock, barriers and obsidian types. You fly faster, and to descend/ascend you can double tap space for creative flight. Consumes 2 Spectre points every tick. If deactivated: Gain strength 3 for 1 second.
+* **Translucent**: The ghastly curse makes you slightly translucent.
+* **Water Loathing**: The density of water restricts your movements. You swim three times slower.
+* **Weakened**: The cold weakens your protection against the curse. The decay by the curse deals damage to you.
+
 ## Spirit ram
 Impact: ◉◉◉
 
 _A ram that has revisited Earth as a spirit to help people on their journey._
+
+* **Spirit Being**: Your skin is slightly transparent.
+* **Hearts**: Because you are a spirit, you've lost a life, giving you only 9 hearts.
+* **High Sleep**: You have to sleep above Y = 70.
+* **Horn Pockets**: [Save Toolbar Activator] You can hide 5 items in each horn that don't drop of you die.
+* **Mist Protection**: You can summon a big mist cloud around you that starts to suffocate everything around you.
+* **Phase**: You can pass through blocks (but it's too unstable to phase for long).
 
 ## Sporeling
 Impact: ◉◉◉
 
 _A tiny floaty mushroom-person that came out of the ground and started doing stuff. (Evolve with 'Free the End')_
 
+* **Decay**: Your attacks cause undead mobs to decompose faster for a short amount of time after being hit.
+* **Decomposer**: Since you are a decomposer, you are immune to poison, hunger, and decay.
+* **Pyrophobia**: You take 2x more fire damage.
+* **Fragile Cap**: You have less health.
+* **Jockey**: You can ride on other players.
+* **Slightly Less Fragile Cap**: You have less health, but at least you had more than before.
+* **Slightly Less Sensitive Cap**: Now that you're bigger, you can handle armor up to diamond level.
+* **Sensitive Cap**: Due to your fragile mushroom cap, you can only wear armor up to iron level.
+* **Spore Spreader**: Secondary Ability: Spread spores around you that poison all nearby entities in a 4 block radius.
+* **Spore Spreader+**: After evolving, you spread stronger spores around you that inflict all nearby entities with poison II and wither in a 6 block radius.
+* **Wind-Catching Cap**: You're faster in the air.
+* **Small**: You're not a spore anymore, but you're still a small mushroom.
+* **Tiny**: You're tiny because you're only a spore.
+* **Updraft**: Blast spores into your cap to launch you upwards.
+* **Updraft+**: Blast more spores into your cap to launch you higher upwards.
+
 ## Sprinter
 Impact: ◉◉
 
 _Sprinter boi go zoom!_
+
+* **Adrenaline Boost**: You gain speed, strength, and regeneration, but get down to two hearts when it wears off.
+* **Burns**: You take more damage to fire and lava.
+* **Light Feet**: You are only slowed down to standard sprinting speed by soul sand.
+* **Nimble**: You have permanent Speed III.
+* **Skinny**: You have two less hearts than normal.
+* **Sniper**: You can use bows and crossbows to their maximum output, dealing more damage, knock back, and shooting from further away.
+* **Steroids**: [Save Toolbar Activator] If you are holding nothing in your main hand, you can restore 10 HP.
 
 ## Stargazer
 Impact: ◉◉◉
 
 _Star boi!_
 
+* **Equinox**: During the night time, you gain Speed II and Strength II.
+* **Fragile Flame**: You take more fire and lava damage.
+* **Hellish Will**: Immune to Wither effects.
+* **Monster Mender**: While in a light level of 7 or lower gain +50% attack speed.
+* **Photosynthesis**: Cannot wear a helmet.
+* **Starguard**: When holding a Nether Star, you gain Resistance II.
+* **Starlight Mode**: You gain immunity to daytime debuffs and gives invisibility and night vision, but armor shows and you can't attack.
+* **Starstalker**: You get phantom phase.
+* **Sunburn**: During the daytime (if not in Starlight Mode) gain Slowness and Weakness.
+
 ## Sunken sailor
 Impact: ◉◉
 
 _Legend has it that sunken sailors were cruel pirates that died in terrible shipwrecks, but now they're just hollow souls left to wonder a world they no longer fit into._
+
+* **Body Of Bone**: Water passes right through your body, So you can sprint at full speed underwater, But it also means you cannot swim.
+* **Down With The Ship**: You spawn near a shipwreck
+* **Fading Soul**: As your soul begins to fade into memory, your skin becomes translucent.
+* **Trustee Spyglass**: You have a special connection with this object allowing you to see entities through blocks while using it.
+* **No Need For Air**: You do not require air to survive allowing you to live under water without dying.
 
 ## Technomancer
 Impact: ◉◉◉
 
 _You are a powerful technomancer. Armed with the power and knowledge of the godfathers of technomancy, you are able to create spells using conduits and your staff._
 
+* **Blockade**: Lime Conduit: You trap any entity in a temporary jail cell. Mana Cost: 10000. [Primary]
+* **Grappling Hook**: Black Conduit: Shoot a grappling hook that allows you to swing and move around quicker. Mana Cost: 1000 Per Use. [Right Click]
+* **Healing Aura**: Blue Conduit: You are able to generate a quick burst of healing nanites which, upon release, will shoot out potent healing chemicals that will heal anyone within its radius, including yourself. Mana Cost: 10000. [Primary]
+* **Laser Beam**: Red Conduit: You release a powerful beam of energy capable to cutting through blocks and mobs. §6Mana Cost: 100 Per Use. [Right Click] (Hold)
+* **Nanite Shield**: Light Blue Conduit: Surround yourself in nanites, preventing all health loss, but are unable to move. §6Mana Cost: 1000 Per Second Used. [Secondary]
+* **Items**: As a Technomancer, your powers are bound to the \"Staff of Aldo\ a powerful staff first designed by the Godfather of Technomancy, Aldo Aarif. Use the staff in your offhand and hold the Conduits in your mainhand to cast spells.
+* **Technomancer's Curse**: Learning Technomancy is a craft of patience and sacrifice. No longer in your prime, your body worn by time, you move slower and have fewer hearts than most.
+* **Tech Mana**: As a Technomancer, your power to perform spells comes from natural energy sources. \"Tech Mana\" as it is commonly known, is your natural source used to cast spells but these are often bounded to more technologically advance Conduits. You gain Tech Mana naturally, as the world often brings little bits of electrical energy which you can use and convert into Mana, but this process is slow. Standing on top of Redstone-type blocks will absorb its energy and give you mana quicker.
+
 ## Thornling
 Impact: ◉◉◉
 
 _You're a small arcane creature, protected by a strange magical spell. You don't know where you came from, you just know you exist._
+
+* **Punching Bag**: Being hit so many times has weakened you a lot. You have 3 less hearts, and deal 40% less damage.
+* **Magical Conductor**: Your body needs magic to live! Wearing any type of armor that isn't gold will slowly wither you away. Since golden armor is very weak, you've come up with a solution. By using gold blocks instead of gold ingots, you can make a reinforced golden armor piece.
+* **Curse of Decay**: Wearing, holding, or being hit by anything with a curse enchantment will affect you with Wither.
+* **Dwarf-like stature**: You're about 1.4 blocks tall.
+* **Empowered**: While wearing a full set of armor with Thorns 3, you receive 40% less damage.
+* **Piercing Thorns**: You're protected by a strange magical aura. When hit, the attacker will get damaged by one heart, this cannot be blocked by any type of armor or shield. You're also immune to thorns based damage.
 
 ## Triangulon
 Impact: ◉◉◉
 
 _You are an infinite shape. That is all._
 
+* **Bowmaster**: You do extra damage with projectiles.
+* **Gravity Manipulator**: You can fly, have void immunity, and can walk on liquids.
+* **Lava Walk**: You can walk on lava
+* **Materialize**: Summon an arrow out of thin air.
+* **Not Meant For Melee**: You have Weakness 3.
+* **Stolen Ability**: Shoot a barrage of shulker bullets.
+* **Warped Health**: You only have 7 hearts.
+
 ## Vishaichian
 Impact: ◉◉
 
 _An ancient warrior of great skill in combat._
+
+* **Fire Weakness**: Fire deals double damage to you. Additionally, when on fire it gives you Blindness and Weakness.
+* **Health**: You have two more hearts because you fight a lot.
+* **High Prices**: The Vishaichian love shiny objects, its difficult for them to trade them away, annoying villagers which often times results in them increasing prices.
+* **Natural Strength**: You are a skilled warrior, and therefore you possess abilities that increase your melee attack damage +2.
+* **Poison Spit**: Spit poison at your enemies.
+* **Raw Diet**: You can only properly process raw meat.
+* **Evoker Fangs**: You summon up to 3 evoker fangs on enemies around you!
+* **Better Health**: You have 4 more hearts.
+* **Jump**: You jump higher.
+* **Extra Strength**: You are a skilled warrior, and therefore you deal +4 melee attack damage.
 
 ## Void samurai
 Impact: ◉◉
