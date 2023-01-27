@@ -1,3 +1,5 @@
+This is a wikipedia for [Origins ++ mod](https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus) created by TheQuantumXenon. I am not them, so please direct your questions towards the original page :)
+
 # Origins ++ Documentation
 
 ## Table of contents
